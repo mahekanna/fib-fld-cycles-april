@@ -1,0 +1,100 @@
+2025-04-07 14:08:11,607 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 60, in <module>
+    from web.scanner_dashboard import create_scanner_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/scanner_dashboard.py", line 377
+    global _advanced_callbacks_registered
+    ^
+SyntaxError: name '_advanced_callbacks_registered' is used prior to global declaration
+2025-04-07 14:23:06,688 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 60, in <module>
+    from web.scanner_dashboard import create_scanner_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/scanner_dashboard.py", line 377
+    global _advanced_callbacks_registered
+    ^
+SyntaxError: name '_advanced_callbacks_registered' is used prior to global declaration
+2025-04-07 17:36:46,324 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 50, in <module>
+    from core.scanner import FibCycleScanner
+  File "/home/vijji/fib_cycles_system_april7/core/scanner.py", line 17, in <module>
+    from data.data_management import DataFetcher
+  File "/home/vijji/fib_cycles_system_april7/data/data_management.py", line 608
+    try:
+IndentationError: unexpected indent
+2025-04-08 02:54:09,761 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+AttributeError: module 'main_dashboard' has no attribute 'run_dashboard'
+2025-04-09 02:30:55,690 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 63, in <module>
+    from web.advanced_strategies_ui import create_strategy_dashboard as create_advanced_strategy_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/advanced_strategies_ui.py", line 1294
+    strategy_comparison = html.Div([
+IndentationError: expected an indented block after 'try' statement on line 1287
+2025-04-09 02:34:40,237 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 63, in <module>
+    from web.advanced_strategies_ui import create_strategy_dashboard as create_advanced_strategy_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/advanced_strategies_ui.py", line 1433
+    except Exception as e:
+    ^^^^^^
+SyntaxError: invalid syntax
+2025-04-09 02:36:51,022 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 63, in <module>
+    from web.advanced_strategies_ui import create_strategy_dashboard as create_advanced_strategy_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/advanced_strategies_ui.py", line 1433
+    except Exception as e:
+    ^^^^^^
+SyntaxError: invalid syntax
+2025-04-09 02:41:59,318 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 63, in <module>
+    from web.advanced_strategies_ui import create_strategy_dashboard as create_advanced_strategy_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/advanced_strategies_ui.py", line 3
+    This module integrates the advanced trading strategies with the web UI dashboard.
+         ^^^^^^
+SyntaxError: invalid syntax
+2025-04-09 02:42:21,608 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 63, in <module>
+    from web.advanced_strategies_ui import create_strategy_dashboard as create_advanced_strategy_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/advanced_strategies_ui.py", line 3
+    This module integrates the advanced trading strategies with the web UI dashboard.
+         ^^^^^^
+SyntaxError: invalid syntax
+2025-04-09 03:22:18,505 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 63, in <module>
+    from web.advanced_strategies_ui import create_strategy_dashboard as create_advanced_strategy_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/advanced_strategies_ui.py", line 1321
+    global _batch_results
+    ^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: name '_batch_results' is used prior to global declaration
+2025-04-09 11:37:23,546 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 63, in <module>
+    from web.advanced_strategies_ui import create_strategy_dashboard as create_advanced_strategy_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/advanced_strategies_ui.py", line 1679
+    try:
+    ^^^
+SyntaxError: expected 'except' or 'finally' block
+2025-04-09 11:39:06,362 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 63, in <module>
+    from web.advanced_strategies_ui import create_strategy_dashboard as create_advanced_strategy_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/advanced_strategies_ui.py", line 1679
+    try:
+    ^^^
+SyntaxError: expected 'except' or 'finally' block
+2025-04-09 11:39:27,984 - [CRITICAL] - fib_cycles - Unhandled exception
+Traceback (most recent call last):
+  File "/home/vijji/fib_cycles_system_april7/main_dashboard.py", line 63, in <module>
+    from web.advanced_strategies_ui import create_strategy_dashboard as create_advanced_strategy_dashboard
+  File "/home/vijji/fib_cycles_system_april7/web/advanced_strategies_ui.py", line 1679
+    try:
+    ^^^
+SyntaxError: expected 'except' or 'finally' block

@@ -1,0 +1,42 @@
+graph TD
+    subgraph Core["Core Analysis Engine"]
+        CD[Cycle Detection] --> FC[FLD Calculation]
+        FC --> SG[Signal Generation]
+        CD --> HR[Harmonic Relationships]
+        CD --> CW[Cycle Wave Generation]
+        HR --> SG
+    end
+    
+    subgraph Data["Data Management"]
+        DF[Data Fetching] --> DP[Data Processing]
+        DP --> DC[Data Caching]
+        DP --> Core
+    end
+    
+    subgraph Visualization["Visualization Engine"]
+        PV[Price Visualization] --> FV[FLD Visualization]
+        FV --> CV[Cycle Visualization]
+        CV --> SV[Signal Visualization]
+        Core --> Visualization
+    end
+    
+    subgraph Interface["User Interfaces"]
+        WD[Web Dashboard] --> CU[Chart UI]
+        WD --> SU[Scanner UI]
+        WD --> RU[Reports UI]
+        TB[Telegram Bot] --> NA[Notifications]
+        TB --> CA[Commands API]
+        Core --> Interface
+    end
+    
+    subgraph Storage["Storage Layer"]
+        RDB[Results Database] --> HC[Historical Cache]
+        SC[Signal Cache] --> BA[Backtest Archive]
+        Core --> Storage
+    end
+    
+    subgraph Integration["External Integration"]
+        TV[TradingView] --> BK[Broker API]
+        Data --> Integration
+        Interface --> Integration
+    end

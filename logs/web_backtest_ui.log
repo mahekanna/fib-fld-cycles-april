@@ -1,0 +1,24 @@
+2025-04-07 13:01:34,819 - [INFO] - web.backtest_ui - Processing stored backtest results: ['error']
+2025-04-07 13:01:34,820 - [ERROR] - web.backtest_ui - Backtest error from store: __init__() got an unexpected keyword argument 'strategy_type'
+2025-04-07 13:01:38,717 - [INFO] - web.backtest_ui - Processing stored backtest results: ['error']
+2025-04-07 13:01:38,717 - [ERROR] - web.backtest_ui - Backtest error from store: __init__() got an unexpected keyword argument 'strategy_type'
+2025-04-07 13:01:54,403 - [INFO] - web.backtest_ui - Processing stored backtest results: ['results_ready', 'symbol', 'exchange', 'interval', 'start_date', 'end_date', 'placeholder']
+2025-04-07 13:01:54,404 - [INFO] - web.backtest_ui - Using placeholder backtest results UI
+2025-04-07 13:01:54,404 - [INFO] - web.backtest_ui - Backtest results received: placeholder=True, symbol=NIFTY
+2025-04-07 13:01:54,404 - [INFO] - web.backtest_ui - Result keys: ['results_ready', 'symbol', 'exchange', 'interval', 'start_date', 'end_date', 'placeholder']
+2025-04-07 13:02:02,233 - [INFO] - web.backtest_ui - Processing stored backtest results: ['error']
+2025-04-07 13:02:02,234 - [ERROR] - web.backtest_ui - Backtest error from store: __init__() got an unexpected keyword argument 'strategy_type'
+2025-04-07 13:07:54,364 - [INFO] - web.backtest_ui - Processing stored backtest results: ['results_ready', 'symbol', 'exchange', 'interval', 'start_date', 'end_date', 'placeholder']
+2025-04-07 13:07:54,366 - [INFO] - web.backtest_ui - Using placeholder backtest results UI
+2025-04-07 13:07:54,366 - [INFO] - web.backtest_ui - Backtest results received: placeholder=True, symbol=NIFTY
+2025-04-07 13:07:54,366 - [INFO] - web.backtest_ui - Result keys: ['results_ready', 'symbol', 'exchange', 'interval', 'start_date', 'end_date', 'placeholder']
+2025-04-07 13:11:23,819 - [INFO] - web.backtest_ui - Processing stored backtest results: ['error']
+2025-04-07 13:11:23,821 - [ERROR] - web.backtest_ui - Backtest error from store: __init__() got an unexpected keyword argument 'strategy_type'
+2025-04-07 13:18:52,862 - [INFO] - web.backtest_ui - Processing stored backtest results: ['error']
+2025-04-07 13:18:52,863 - [ERROR] - web.backtest_ui - Backtest error from store: __init__() got an unexpected keyword argument 'strategy_type'
+2025-04-07 13:18:54,369 - [INFO] - web.backtest_ui - Processing stored backtest results: ['results_ready', 'symbol', 'exchange', 'interval', 'start_date', 'end_date', 'placeholder']
+2025-04-07 13:18:54,370 - [INFO] - web.backtest_ui - Using placeholder backtest results UI
+2025-04-07 13:18:54,370 - [INFO] - web.backtest_ui - Backtest results received: placeholder=True, symbol=NIFTY
+2025-04-07 13:18:54,370 - [INFO] - web.backtest_ui - Result keys: ['results_ready', 'symbol', 'exchange', 'interval', 'start_date', 'end_date', 'placeholder']
+2025-04-07 13:18:56,122 - [INFO] - web.backtest_ui - Processing stored backtest results: ['error']
+2025-04-07 13:18:56,123 - [ERROR] - web.backtest_ui - Backtest error from store: __init__() got an unexpected keyword argument 'strategy_type'

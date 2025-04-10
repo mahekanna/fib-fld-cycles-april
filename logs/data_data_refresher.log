@@ -1,0 +1,591 @@
+2025-04-09 11:43:15,064 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 11:43:15,064 - [INFO] - data.data_refresher - Refreshing data for NIFTY due to age
+2025-04-09 11:43:15,353 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 11:43:24,453 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-09 11:43:24,835 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-09 11:43:24,845 - [INFO] - data.data_refresher - Refreshing data for TCS due to age
+2025-04-09 11:43:25,279 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 11:43:25,299 - [INFO] - data.data_refresher - Refreshing data for BANKNIFTY due to age
+2025-04-09 11:43:25,799 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-09 11:43:25,809 - [INFO] - data.data_refresher - Refreshing data for RELIANCE due to age
+2025-04-09 11:43:26,352 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 11:43:26,363 - [INFO] - data.data_refresher - Refreshing data for TATAMOTORS due to age
+2025-04-09 11:43:26,828 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-09 11:43:26,837 - [INFO] - data.data_refresher - Refreshing data for ICICIBANK due to age
+2025-04-09 11:43:27,280 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-09 11:43:27,291 - [INFO] - data.data_refresher - Refreshing data for HDFCBANK due to age
+2025-04-09 11:43:27,784 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-09 11:43:27,794 - [INFO] - data.data_refresher - Refreshing data for SBIN due to age
+2025-04-09 11:43:28,286 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 11:43:31,311 - [INFO] - data.data_refresher - Refreshing data for RELIANCE due to age
+2025-04-09 11:43:31,622 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (15m), 1000 rows
+2025-04-09 11:43:31,634 - [INFO] - data.data_refresher - Refreshing data for HDFCBANK due to age
+2025-04-09 11:43:32,131 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (15m), 1000 rows
+2025-04-09 11:43:32,150 - [INFO] - data.data_refresher - Refreshing data for TATAMOTORS due to age
+2025-04-09 11:43:32,616 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (15m), 1000 rows
+2025-04-09 11:43:32,627 - [INFO] - data.data_refresher - Refreshing data for TCS due to age
+2025-04-09 11:43:33,119 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (15m), 1000 rows
+2025-04-09 11:43:33,132 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-09 11:43:33,630 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (15m), 1000 rows
+2025-04-09 11:43:33,643 - [INFO] - data.data_refresher - Refreshing data for SBIN due to age
+2025-04-09 11:43:34,109 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (15m), 1000 rows
+2025-04-09 11:43:34,121 - [INFO] - data.data_refresher - Refreshing data for ICICIBANK due to age
+2025-04-09 11:43:34,611 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (15m), 1000 rows
+2025-04-09 11:43:34,625 - [INFO] - data.data_refresher - Refreshing data for BANKNIFTY due to age
+2025-04-09 11:43:35,117 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (15m), 1000 rows
+2025-04-09 11:43:35,130 - [INFO] - data.data_refresher - Refreshing data for NIFTY due to age
+2025-04-09 11:43:35,626 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (15m), 1000 rows
+2025-04-09 11:50:18,361 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 11:50:18,361 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 11:50:18,662 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 11:50:18,663 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 11:50:18,663 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 11:50:18,663 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 11:50:26,337 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-09 11:50:26,817 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 11:50:26,818 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-09 11:50:26,818 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 11:50:27,322 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 11:50:27,322 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 11:50:27,323 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-09 11:50:27,817 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 11:50:27,818 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-09 11:50:27,818 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-09 11:50:28,320 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-09 11:50:28,321 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-09 11:50:28,321 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-09 11:50:29,252 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-09 11:50:29,253 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-09 11:50:29,253 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-09 11:50:29,541 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-09 11:50:29,541 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-09 11:50:29,541 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-09 11:50:30,039 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-09 11:50:30,040 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-09 11:50:30,040 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-09 11:50:30,539 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-09 11:50:30,539 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-09 11:50:30,539 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-09 11:50:31,039 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 11:50:31,039 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-09 11:50:40,432 - [INFO] - data.data_refresher - Refreshing data for RELIANCE due to age
+2025-04-09 11:50:40,730 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (15m), 1000 rows
+2025-04-09 11:50:40,745 - [INFO] - data.data_refresher - Refreshing data for HDFCBANK due to age
+2025-04-09 11:50:41,231 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (15m), 1000 rows
+2025-04-09 11:50:41,245 - [INFO] - data.data_refresher - Refreshing data for TATAMOTORS due to age
+2025-04-09 11:50:41,729 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (15m), 1000 rows
+2025-04-09 11:50:41,743 - [INFO] - data.data_refresher - Refreshing data for TCS due to age
+2025-04-09 11:50:42,228 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (15m), 1000 rows
+2025-04-09 11:50:42,241 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-09 11:50:42,734 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (15m), 1000 rows
+2025-04-09 11:50:42,748 - [INFO] - data.data_refresher - Refreshing data for SBIN due to age
+2025-04-09 11:50:43,237 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (15m), 1000 rows
+2025-04-09 11:50:43,249 - [INFO] - data.data_refresher - Refreshing data for ICICIBANK due to age
+2025-04-09 11:50:43,731 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (15m), 1000 rows
+2025-04-09 11:50:43,745 - [INFO] - data.data_refresher - Refreshing data for BANKNIFTY due to age
+2025-04-09 11:50:44,234 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (15m), 1000 rows
+2025-04-09 11:50:44,248 - [INFO] - data.data_refresher - Refreshing data for NIFTY due to age
+2025-04-09 11:50:44,733 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (15m), 1000 rows
+2025-04-09 11:58:55,340 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 11:58:55,340 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 11:58:55,635 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 11:58:55,635 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 11:58:55,635 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 11:58:55,635 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 11:59:09,132 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 11:59:09,616 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 11:59:09,617 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 11:59:09,617 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-09 11:59:10,122 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-09 11:59:10,123 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-09 11:59:10,123 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-09 11:59:10,611 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 11:59:10,612 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-09 11:59:10,612 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-09 11:59:11,113 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-09 11:59:11,114 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-09 11:59:11,114 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-09 11:59:11,728 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 11:59:11,728 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-09 11:59:11,729 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-09 11:59:12,111 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-09 11:59:12,111 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-09 11:59:12,112 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-09 11:59:12,609 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-09 11:59:12,609 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-09 11:59:12,609 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-09 11:59:13,108 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-09 11:59:13,109 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-09 11:59:13,109 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-09 11:59:13,612 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 11:59:13,613 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-09 11:59:20,041 - [INFO] - data.data_refresher - Refreshing data for RELIANCE due to age
+2025-04-09 11:59:20,331 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (15m), 1000 rows
+2025-04-09 11:59:20,345 - [INFO] - data.data_refresher - Refreshing data for HDFCBANK due to age
+2025-04-09 11:59:20,834 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (15m), 1000 rows
+2025-04-09 11:59:20,845 - [INFO] - data.data_refresher - Refreshing data for TATAMOTORS due to age
+2025-04-09 11:59:21,333 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (15m), 1000 rows
+2025-04-09 11:59:21,346 - [INFO] - data.data_refresher - Refreshing data for TCS due to age
+2025-04-09 11:59:21,837 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (15m), 1000 rows
+2025-04-09 11:59:21,849 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-09 11:59:22,332 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (15m), 1000 rows
+2025-04-09 11:59:22,344 - [INFO] - data.data_refresher - Refreshing data for SBIN due to age
+2025-04-09 11:59:22,890 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (15m), 1000 rows
+2025-04-09 11:59:22,903 - [INFO] - data.data_refresher - Refreshing data for ICICIBANK due to age
+2025-04-09 11:59:23,332 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (15m), 1000 rows
+2025-04-09 11:59:23,345 - [INFO] - data.data_refresher - Refreshing data for BANKNIFTY due to age
+2025-04-09 11:59:23,831 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (15m), 1000 rows
+2025-04-09 11:59:23,843 - [INFO] - data.data_refresher - Refreshing data for NIFTY due to age
+2025-04-09 11:59:24,338 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (15m), 1000 rows
+2025-04-09 12:00:22,736 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 12:00:22,736 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 12:00:23,028 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 12:00:23,028 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 12:00:23,029 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 12:00:23,029 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 12:00:30,333 - [INFO] - data.data_refresher - Refreshing data for RELIANCE due to age
+2025-04-09 12:00:31,702 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-09 12:00:32,177 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (15m), 1000 rows
+2025-04-09 12:00:32,192 - [INFO] - data.data_refresher - Refreshing data for HDFCBANK due to age
+2025-04-09 12:00:32,481 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (15m), 1000 rows
+2025-04-09 12:00:32,499 - [INFO] - data.data_refresher - Refreshing data for TATAMOTORS due to age
+2025-04-09 12:00:32,705 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-09 12:00:32,705 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-09 12:00:32,705 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 12:00:32,970 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (15m), 1000 rows
+2025-04-09 12:00:32,983 - [INFO] - data.data_refresher - Refreshing data for TCS due to age
+2025-04-09 12:00:33,574 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 12:00:33,574 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 12:00:33,574 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-09 12:00:33,977 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (15m), 1000 rows
+2025-04-09 12:00:33,990 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-09 12:00:34,479 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 12:00:34,480 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-09 12:00:34,480 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-09 12:00:34,974 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (15m), 1000 rows
+2025-04-09 12:00:34,986 - [INFO] - data.data_refresher - Refreshing data for SBIN due to age
+2025-04-09 12:00:35,487 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 12:00:35,488 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-09 12:00:35,488 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-09 12:00:35,970 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (15m), 1000 rows
+2025-04-09 12:00:35,983 - [INFO] - data.data_refresher - Refreshing data for ICICIBANK due to age
+2025-04-09 12:00:36,471 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-09 12:00:36,472 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-09 12:00:36,472 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-09 12:00:36,976 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (15m), 1000 rows
+2025-04-09 12:00:36,990 - [INFO] - data.data_refresher - Refreshing data for BANKNIFTY due to age
+2025-04-09 12:00:37,484 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-09 12:00:37,485 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-09 12:00:37,485 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-09 12:00:37,980 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (15m), 1000 rows
+2025-04-09 12:00:37,994 - [INFO] - data.data_refresher - Refreshing data for NIFTY due to age
+2025-04-09 12:00:38,479 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-09 12:00:38,479 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-09 12:00:38,480 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-09 12:00:38,976 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (15m), 1000 rows
+2025-04-09 12:00:39,479 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-09 12:00:39,479 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-09 12:00:39,479 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-09 12:00:39,975 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 12:00:39,975 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-09 17:41:15,895 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 17:41:15,899 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-09 17:41:18,112 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 17:41:18,112 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-09 17:41:18,112 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-09 17:41:18,449 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 17:41:18,449 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-09 17:41:18,449 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-09 17:41:18,949 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-09 17:41:18,949 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-09 17:41:18,949 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 17:41:19,453 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 17:41:19,453 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 17:41:19,453 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-09 17:41:19,941 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 17:41:19,942 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-09 17:41:19,942 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-09 17:41:20,451 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-09 17:41:20,452 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-09 17:41:20,452 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-09 17:41:20,945 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-09 17:41:20,945 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-09 17:41:20,945 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-09 17:41:21,440 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-09 17:41:21,441 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-09 17:41:21,442 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 17:41:21,442 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 17:43:28,138 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 17:43:28,138 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-09 17:43:28,506 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 17:43:28,507 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-09 17:43:28,507 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-09 17:43:29,004 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 17:43:29,005 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-09 17:43:29,005 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-09 17:43:29,506 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-09 17:43:29,506 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-09 17:43:29,506 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-09 17:43:30,003 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-09 17:43:30,004 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-09 17:43:30,004 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-09 17:43:30,495 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-09 17:43:30,496 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-09 17:43:30,496 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-09 17:43:31,001 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 17:43:31,002 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-09 17:43:31,002 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 17:43:31,002 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 17:50:05,326 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 17:50:05,326 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 17:50:05,697 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 17:50:05,698 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 17:50:05,698 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 17:50:05,698 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 17:51:55,804 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-09 17:51:56,280 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 17:51:56,280 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-09 17:51:56,280 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-09 17:51:56,804 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 17:51:56,805 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-09 17:51:56,805 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 17:51:57,283 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 17:51:57,283 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 17:51:57,283 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-09 17:51:57,786 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-09 17:51:57,787 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-09 17:51:57,787 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-09 17:51:58,281 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-09 17:51:58,282 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-09 17:51:58,282 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-09 17:51:58,977 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-09 17:51:58,978 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-09 17:51:58,978 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-09 17:51:59,339 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-09 17:51:59,340 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-09 17:51:59,340 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-09 17:51:59,850 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-09 17:51:59,850 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-09 17:51:59,851 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-09 17:52:00,337 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 17:52:00,337 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-09 18:01:26,619 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 18:01:26,619 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 18:01:26,939 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 18:01:26,940 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 18:01:26,940 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 18:01:26,941 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 18:01:38,074 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-09 18:01:38,608 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 18:01:38,622 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-09 18:01:38,626 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-09 18:01:39,072 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-09 18:01:39,080 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-09 18:01:39,080 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-09 18:01:39,576 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 18:01:39,579 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-09 18:01:39,580 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 18:01:40,072 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 18:01:40,076 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 18:01:40,077 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-09 18:01:40,567 - [WARNING] - data.data_refresher - Failed to refresh data for TATAMOTORS (daily)
+2025-04-09 18:01:40,569 - [INFO] - data.data_refresher - Refreshing data for TATAMOTORS due to age
+2025-04-09 18:01:41,091 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-09 18:01:41,101 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-09 18:34:11,588 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 18:34:11,588 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 18:34:11,913 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 18:34:11,914 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 18:34:11,914 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 18:34:11,914 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 18:34:30,665 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 18:34:31,140 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 18:34:31,140 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 18:34:31,141 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-09 18:34:31,643 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 18:34:31,644 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-09 18:34:31,644 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-09 18:34:32,141 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-09 18:34:32,141 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-09 18:34:32,141 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-09 18:34:32,647 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 18:34:32,648 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-09 18:34:32,648 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-09 18:34:33,136 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-09 18:34:33,136 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-09 18:34:33,137 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-09 18:34:33,638 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-09 18:34:33,639 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-09 18:34:33,639 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-09 18:34:34,145 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-09 18:34:34,146 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-09 18:34:34,146 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-09 18:34:34,634 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-09 18:34:34,634 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-09 18:34:34,634 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-09 18:34:35,148 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 18:34:35,149 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-09 18:39:18,951 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 18:39:18,951 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 18:39:19,266 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 18:39:19,266 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 18:39:19,266 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 18:39:19,266 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 18:43:19,010 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 18:43:19,010 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 18:43:19,334 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 18:43:19,335 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 18:43:19,335 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 18:43:19,335 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 18:43:45,461 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-09 18:43:45,784 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-09 18:43:45,784 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-09 18:43:45,784 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-09 18:43:46,273 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-09 18:43:46,273 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-09 18:43:46,273 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-09 18:43:46,765 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-09 18:43:46,766 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-09 18:43:46,766 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-09 18:43:47,274 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-09 18:43:47,274 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-09 18:43:47,274 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 18:43:47,775 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 18:43:47,776 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 18:43:47,776 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-09 18:43:48,273 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-09 18:43:48,274 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-09 18:43:48,274 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-09 18:43:48,773 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-09 18:43:48,774 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-09 18:43:48,774 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-09 18:43:49,280 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-09 18:43:49,280 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-09 18:43:49,280 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-09 18:43:49,776 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 18:43:49,777 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-09 18:50:18,153 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-09 18:50:18,153 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 18:50:18,473 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 18:50:18,474 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 18:50:18,474 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-09 18:50:18,474 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-09 18:50:25,121 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-09 18:50:25,439 - [WARNING] - data.data_refresher - Failed to refresh data for BANKNIFTY (daily)
+2025-04-09 18:50:25,441 - [INFO] - data.data_refresher - Refreshing data for BANKNIFTY due to age
+2025-04-09 18:50:25,935 - [WARNING] - data.data_refresher - Failed to refresh data for BANKNIFTY (daily)
+2025-04-09 18:50:26,489 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-09 18:50:26,489 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-09 18:50:26,950 - [WARNING] - data.data_refresher - Failed to refresh data for INFY (daily)
+2025-04-09 18:50:26,952 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-09 18:50:27,434 - [WARNING] - data.data_refresher - Failed to refresh data for INFY (daily)
+2025-04-09 18:50:27,956 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-09 18:50:27,956 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-09 18:50:28,489 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-09 18:50:28,494 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-09 18:50:28,495 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-09 18:50:28,957 - [WARNING] - data.data_refresher - Failed to refresh data for HDFCBANK (daily)
+2025-04-09 18:50:28,963 - [INFO] - data.data_refresher - Refreshing data for HDFCBANK due to age
+2025-04-09 18:50:29,430 - [WARNING] - data.data_refresher - Failed to refresh data for HDFCBANK (daily)
+2025-04-09 18:50:29,937 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-09 18:50:29,938 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-09 18:50:30,460 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-09 18:50:30,465 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-10 00:15:19,548 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-10 00:15:19,549 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 00:15:19,859 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 00:15:19,860 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 00:15:19,860 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-10 00:15:19,860 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-10 00:15:29,353 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-10 00:15:29,840 - [WARNING] - data.data_refresher - Failed to refresh data for BANKNIFTY (daily)
+2025-04-10 00:15:29,841 - [INFO] - data.data_refresher - Refreshing data for BANKNIFTY due to age
+2025-04-10 00:15:30,351 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-10 00:15:30,354 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-10 00:15:30,356 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 00:15:30,857 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 00:15:30,861 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 00:15:30,861 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-10 00:15:31,328 - [WARNING] - data.data_refresher - Failed to refresh data for RELIANCE (daily)
+2025-04-10 00:15:31,330 - [INFO] - data.data_refresher - Refreshing data for RELIANCE due to age
+2025-04-10 00:15:31,853 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-10 00:15:31,858 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-10 00:15:31,859 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-10 00:15:32,357 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-10 00:15:32,361 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-10 00:15:32,363 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-10 00:15:32,851 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-10 00:15:32,858 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-10 00:22:29,361 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-10 00:22:29,361 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 00:22:29,671 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 00:22:29,672 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 00:22:29,672 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-10 00:22:29,672 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-10 00:22:41,513 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-10 00:22:42,018 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-10 00:22:42,022 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-10 00:22:42,023 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-10 00:22:42,515 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-10 00:22:42,521 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-10 00:22:42,522 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-10 00:22:42,997 - [WARNING] - data.data_refresher - Failed to refresh data for INFY (daily)
+2025-04-10 00:22:43,003 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-10 00:22:43,517 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-10 00:22:43,522 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-10 00:37:26,389 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-10 00:37:26,389 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 00:37:26,721 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 00:37:26,722 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 00:37:26,723 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-10 00:37:26,723 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-10 00:37:39,276 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-10 00:37:39,597 - [WARNING] - data.data_refresher - Failed to refresh data for RELIANCE (daily)
+2025-04-10 00:37:39,600 - [INFO] - data.data_refresher - Refreshing data for RELIANCE due to age
+2025-04-10 00:37:40,128 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-10 00:37:40,133 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-10 00:37:40,135 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-10 00:37:40,683 - [WARNING] - data.data_refresher - Failed to refresh data for INFY (daily)
+2025-04-10 00:37:40,685 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-10 00:37:41,101 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-10 00:37:41,104 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-10 00:37:41,106 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-10 00:37:41,620 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-10 00:37:41,626 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-10 00:37:41,631 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 00:37:42,109 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 00:37:42,114 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 00:37:42,116 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-10 00:37:42,610 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-10 00:37:42,614 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-10 00:37:42,615 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-10 00:37:43,110 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-10 00:37:43,116 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-10 01:08:58,559 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-10 01:08:58,559 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 01:08:59,381 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 01:08:59,532 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 01:08:59,532 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 01:08:59,532 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-10 01:09:00,032 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 01:09:00,032 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 01:09:00,033 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-10 01:09:00,033 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-10 01:09:00,632 - [WARNING] - data.data_refresher - Failed to refresh data for INFY (daily)
+2025-04-10 01:09:00,632 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-10 01:09:00,967 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-10 01:09:00,968 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-10 01:09:00,968 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-10 01:09:01,470 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-10 01:09:01,470 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-10 01:09:01,471 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-10 01:09:01,947 - [WARNING] - data.data_refresher - Failed to refresh data for RELIANCE (daily)
+2025-04-10 01:09:01,954 - [INFO] - data.data_refresher - Refreshing data for RELIANCE due to age
+2025-04-10 01:09:02,449 - [WARNING] - data.data_refresher - Failed to refresh data for RELIANCE (daily)
+2025-04-10 01:09:02,990 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-10 01:09:02,991 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-10 01:09:03,451 - [WARNING] - data.data_refresher - Failed to refresh data for TCS (daily)
+2025-04-10 01:09:03,455 - [INFO] - data.data_refresher - Refreshing data for TCS due to age
+2025-04-10 01:09:03,962 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-10 01:09:03,970 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-10 01:09:03,973 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-10 01:09:04,453 - [WARNING] - data.data_refresher - Failed to refresh data for TATAMOTORS (daily)
+2025-04-10 01:09:04,454 - [INFO] - data.data_refresher - Refreshing data for TATAMOTORS due to age
+2025-04-10 01:09:04,940 - [WARNING] - data.data_refresher - Failed to refresh data for TATAMOTORS (daily)
+2025-04-10 01:09:05,450 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-10 01:09:05,452 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-10 01:09:05,942 - [WARNING] - data.data_refresher - Failed to refresh data for ICICIBANK (daily)
+2025-04-10 01:09:05,942 - [INFO] - data.data_refresher - Refreshing data for ICICIBANK due to age
+2025-04-10 01:09:06,444 - [WARNING] - data.data_refresher - Failed to refresh data for ICICIBANK (daily)
+2025-04-10 01:09:06,967 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-10 01:09:06,968 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-10 01:09:07,466 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-10 01:09:07,472 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-10 01:09:07,475 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-10 01:09:07,991 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-10 01:09:08,002 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-10 01:46:32,816 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-10 01:46:32,816 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 01:46:33,140 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 01:46:33,142 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 01:46:33,142 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-10 01:46:33,142 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-10 01:46:41,700 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-10 01:46:42,278 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-10 01:46:42,285 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-10 01:46:42,288 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-10 01:46:42,704 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-10 01:46:42,711 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-10 01:46:42,715 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-10 01:46:43,179 - [WARNING] - data.data_refresher - Failed to refresh data for BANKNIFTY (daily)
+2025-04-10 01:46:43,180 - [INFO] - data.data_refresher - Refreshing data for BANKNIFTY due to age
+2025-04-10 01:46:43,711 - [INFO] - data.data_refresher - Successfully refreshed data for BANKNIFTY (daily), 1000 rows
+2025-04-10 01:46:43,718 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-10 01:46:43,719 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-10 01:46:44,176 - [WARNING] - data.data_refresher - Failed to refresh data for HDFCBANK (daily)
+2025-04-10 01:46:44,178 - [INFO] - data.data_refresher - Refreshing data for HDFCBANK due to age
+2025-04-10 01:46:44,700 - [WARNING] - data.data_refresher - Failed to refresh data for HDFCBANK (daily)
+2025-04-10 01:46:45,207 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-10 01:57:12,973 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-10 01:57:12,973 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 01:57:13,291 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 01:57:13,291 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 01:57:13,292 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-10 01:57:13,292 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-10 01:57:22,231 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-10 01:57:22,734 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-10 01:57:22,739 - [INFO] - data.data_refresher - Added TCS to priority symbols
+2025-04-10 01:57:22,740 - [INFO] - data.data_refresher - Force refreshing RELIANCE (daily)
+2025-04-10 01:57:23,214 - [WARNING] - data.data_refresher - Failed to refresh data for RELIANCE (daily)
+2025-04-10 01:57:23,216 - [INFO] - data.data_refresher - Refreshing data for RELIANCE due to age
+2025-04-10 01:57:23,745 - [INFO] - data.data_refresher - Successfully refreshed data for RELIANCE (daily), 1000 rows
+2025-04-10 01:57:23,755 - [INFO] - data.data_refresher - Added RELIANCE to priority symbols
+2025-04-10 01:57:23,756 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-10 01:57:24,242 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-10 01:57:24,247 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-10 01:57:24,249 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-10 01:57:24,739 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-10 01:57:24,742 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-10 02:18:46,436 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-10 02:18:46,437 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 02:18:46,773 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 02:18:46,774 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 02:18:46,774 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-10 02:18:46,775 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-10 02:19:03,212 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 02:19:03,538 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 02:19:03,538 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 02:19:03,539 - [INFO] - data.data_refresher - Force refreshing TATAMOTORS (daily)
+2025-04-10 02:19:04,037 - [INFO] - data.data_refresher - Successfully refreshed data for TATAMOTORS (daily), 1000 rows
+2025-04-10 02:19:04,038 - [INFO] - data.data_refresher - Added TATAMOTORS to priority symbols
+2025-04-10 02:19:04,038 - [INFO] - data.data_refresher - Force refreshing ICICIBANK (daily)
+2025-04-10 02:19:04,532 - [INFO] - data.data_refresher - Successfully refreshed data for ICICIBANK (daily), 1000 rows
+2025-04-10 02:19:04,532 - [INFO] - data.data_refresher - Added ICICIBANK to priority symbols
+2025-04-10 02:19:04,532 - [INFO] - data.data_refresher - Force refreshing HDFCBANK (daily)
+2025-04-10 02:19:05,033 - [INFO] - data.data_refresher - Successfully refreshed data for HDFCBANK (daily), 1000 rows
+2025-04-10 02:19:05,033 - [INFO] - data.data_refresher - Added HDFCBANK to priority symbols
+2025-04-10 02:19:05,033 - [INFO] - data.data_refresher - Force refreshing SBIN (daily)
+2025-04-10 02:19:05,532 - [INFO] - data.data_refresher - Successfully refreshed data for SBIN (daily), 1000 rows
+2025-04-10 02:19:05,533 - [INFO] - data.data_refresher - Added SBIN to priority symbols
+2025-04-10 02:30:43,828 - [INFO] - data.data_refresher - DataRefresher initialized
+2025-04-10 02:30:43,828 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 02:30:44,141 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 02:30:44,142 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 02:30:44,142 - [INFO] - data.data_refresher - Refresh worker thread started
+2025-04-10 02:30:44,142 - [INFO] - data.data_refresher - Refresh thread started with 10s check interval
+2025-04-10 02:30:51,290 - [INFO] - data.data_refresher - Force refreshing BANKNIFTY (daily)
+2025-04-10 02:30:51,779 - [WARNING] - data.data_refresher - Failed to refresh data for BANKNIFTY (daily)
+2025-04-10 02:30:51,782 - [INFO] - data.data_refresher - Refreshing data for BANKNIFTY due to age
+2025-04-10 02:30:52,264 - [WARNING] - data.data_refresher - Failed to refresh data for BANKNIFTY (daily)
+2025-04-10 02:30:52,280 - [INFO] - data.data_refresher - Added BANKNIFTY to priority symbols
+2025-04-10 02:30:52,281 - [INFO] - data.data_refresher - Force refreshing NIFTY (daily)
+2025-04-10 02:30:52,790 - [INFO] - data.data_refresher - Successfully refreshed data for NIFTY (daily), 1000 rows
+2025-04-10 02:30:52,795 - [INFO] - data.data_refresher - Added NIFTY to priority symbols
+2025-04-10 02:30:52,796 - [INFO] - data.data_refresher - Force refreshing INFY (daily)
+2025-04-10 02:30:53,261 - [WARNING] - data.data_refresher - Failed to refresh data for INFY (daily)
+2025-04-10 02:30:53,261 - [INFO] - data.data_refresher - Refreshing data for INFY due to age
+2025-04-10 02:30:53,777 - [INFO] - data.data_refresher - Successfully refreshed data for INFY (daily), 1000 rows
+2025-04-10 02:30:53,782 - [INFO] - data.data_refresher - Added INFY to priority symbols
+2025-04-10 02:30:53,783 - [INFO] - data.data_refresher - Force refreshing TCS (daily)
+2025-04-10 02:30:54,286 - [INFO] - data.data_refresher - Successfully refreshed data for TCS (daily), 1000 rows
+2025-04-10 02:30:54,294 - [INFO] - data.data_refresher - Added TCS to priority symbols

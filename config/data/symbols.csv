@@ -1,0 +1,16 @@
+symbol,exchange,description,type
+NIFTY,NSE,Nifty 50 Index,index
+BANKNIFTY,NSE,Bank Nifty Index,index
+RELIANCE,NSE,Reliance Industries Ltd,stock
+TCS,NSE,Tata Consultancy Services,stock
+INFY,NSE,Infosys Ltd,stock
+TATAMOTORS,NSE,Tata Motors Ltd,stock
+ICICIBANK,NSE,ICICI Bank Ltd,stock
+HDFCBANK,NSE,HDFC Bank Ltd,stock
+SBIN,NSE,State Bank of India,stock
+AAPL,NYSE,Apple Inc,stock
+MSFT,NYSE,Microsoft Corporation,stock
+AMZN,NASDAQ,Amazon.com Inc,stock
+TSLA,NASDAQ,Tesla Inc,stock
+GOOGL,NASDAQ,Alphabet Inc,stock
+NVDA,NASDAQ,NVIDIA Corporation,stock

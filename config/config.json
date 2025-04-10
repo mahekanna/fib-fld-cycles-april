@@ -1,0 +1,94 @@
+{
+    "general": {
+        "default_exchange": "NSE",
+        "default_source": "tradingview",
+        "symbols_file_path": "config/symbols.json"
+    },
+    "data": {
+        "cache_dir": "data/cache",
+        "cache_expiry": {
+            "1min": 1,
+            "5min": 1,
+            "15min": 1,
+            "30min": 1,
+            "1h": 7,
+            "4h": 7,
+            "daily": 30,
+            "weekly": 90,
+            "monthly": 90
+        }
+    },
+    "tradingview": {
+        "username": "username",
+        "password": "password"
+    },
+    "analysis": {
+        "min_period": 10,
+        "max_period": 250,
+        "fib_cycles": [21, 34, 55, 89, 144, 233],
+        "power_threshold": 0.2,
+        "cycle_tolerance": 0.15,
+        "detrend_method": "diff",
+        "window_function": "hanning",
+        "gap_threshold": 0.01,
+        "crossover_lookback": 5
+    },
+    "scanner": {
+        "default_symbols": ["NIFTY", "BANKNIFTY", "RELIANCE", "TCS", "INFY"],
+        "default_exchange": "NSE",
+        "default_interval": "daily",
+        "default_lookback": 1000,
+        "price_source": "close",
+        "num_cycles": 3,
+        "filter_signal": null,
+        "min_confidence": null,
+        "min_alignment": 0.6,
+        "ranking_factor": "strength"
+    },
+    "backtest": {
+        "default_symbols": ["NIFTY", "BANKNIFTY"],
+        "start_date": "2018-01-01",
+        "end_date": null,
+        "initial_capital": 100000,
+        "position_size": 0.1,
+        "commission_rate": 0.0005,
+        "slippage": 0.0002
+    },
+    "performance": {
+        "max_workers": 5
+    },
+    "visualization": {
+        "theme": "dark",
+        "default_chart_height": 800,
+        "default_chart_width": 1200,
+        "color_palette": {
+            "price": "#2962FF",
+            "up_candle": "#26A69A",
+            "down_candle": "#EF5350",
+            "volume": "#B2B5BE",
+            "cycle_21": "#FFC107",
+            "cycle_34": "#FF9800",
+            "cycle_55": "#FF5722",
+            "cycle_89": "#E91E63",
+            "cycle_144": "#9C27B0",
+            "cycle_233": "#673AB7",
+            "fld": "#4CAF50",
+            "buy_signal": "#00E676",
+            "sell_signal": "#FF3D00",
+            "background": "#1E1E1E",
+            "grid": "#363636",
+            "text": "#E0E0E0"
+        }
+    },
+    "telegram": {
+        "bot_token": "",
+        "chat_id": "",
+        "enable_notifications": false,
+        "notification_types": ["strong_buy", "strong_sell"]
+    },
+    "web": {
+        "dashboard_host": "127.0.0.1",
+        "dashboard_port": 8050,
+        "refresh_interval": 60
+    }
+}

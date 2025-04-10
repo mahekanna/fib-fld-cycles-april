@@ -1,0 +1,13 @@
+2025-04-07 03:03:23,537 - [INFO] - test_logging - Running test: test_basic_logging
+2025-04-07 03:03:23,538 - [INFO] - test_logging - Test test_basic_logging: PASSED
+2025-04-07 03:03:23,538 - [INFO] - test_logging - Running test: test_component_loggers
+2025-04-07 03:03:23,539 - [INFO] - test_logging - Test test_component_loggers: PASSED
+2025-04-07 03:03:23,539 - [INFO] - test_logging - Running test: test_exception_logging
+2025-04-07 03:03:23,539 - [INFO] - test_logging - Test test_exception_logging: PASSED
+2025-04-07 03:03:23,539 - [INFO] - test_logging - Running test: test_log_levels
+2025-04-07 03:03:23,540 - [INFO] - test_logging - Test test_log_levels: PASSED
+2025-04-07 03:03:23,540 - [INFO] - test_logging - Running test: test_session_logging
+2025-04-07 03:03:23,541 - [INFO] - test_logging - Test test_session_logging: PASSED
+2025-04-07 03:03:23,541 - [INFO] - test_logging - Running test: test_log_files
+2025-04-07 03:03:23,541 - [INFO] - test_logging - Test test_log_files: PASSED
+2025-04-07 03:03:23,541 - [INFO] - test_logging - Logging system test completed

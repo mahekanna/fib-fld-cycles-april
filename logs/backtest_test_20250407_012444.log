@@ -1,0 +1,80 @@
+2025-04-07 01:24:44,607 - __main__ - INFO - Project root: /home/vijji/advanced_fld_cycles/fib_cycles_system
+2025-04-07 01:24:44,608 - __main__ - INFO - Successfully imported config module
+2025-04-07 01:24:45,065 - __main__ - INFO - Successfully imported backtesting framework
+2025-04-07 01:24:45,066 - __main__ - INFO - Successfully imported data management
+2025-04-07 01:24:45,066 - __main__ - INFO - === Testing Data Fetcher ===
+2025-04-07 01:24:45,066 - __main__ - INFO - Testing data fetcher...
+2025-04-07 01:24:45,066 - __main__ - INFO - Loading config from: /home/vijji/advanced_fld_cycles/fib_cycles_system/config/config.json
+2025-04-07 01:24:45,382 - tvDatafeed.main - ERROR - error while signin
+2025-04-07 01:24:45,382 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-04-07 01:24:45,382 - data_management - INFO - TradingView data source initialized
+2025-04-07 01:24:45,382 - data_management - INFO - Yahoo Finance data source initialized
+2025-04-07 01:24:45,383 - __main__ - INFO - Attempting to fetch AAPL on NYSE with daily interval...
+2025-04-07 01:24:45,387 - data_management - INFO - Retrieved 501 rows from cache for AAPL
+2025-04-07 01:24:45,387 - data_management - INFO - Using cached data for AAPL (daily)
+2025-04-07 01:24:45,387 - __main__ - INFO - Successfully fetched 501 rows for AAPL
+2025-04-07 01:24:45,387 - __main__ - INFO - Date range: 2023-11-24 01:17:13.241556 to 2025-04-07 01:17:13.241556
+2025-04-07 01:24:45,387 - __main__ - INFO - Columns: ['open', 'high', 'low', 'close', 'volume']
+2025-04-07 01:24:45,518 - __main__ - INFO - Saved price chart to AAPL_daily_test.png
+2025-04-07 01:24:45,518 - __main__ - INFO - Attempting to fetch MSFT on NYSE with daily interval...
+2025-04-07 01:24:45,521 - data_management - INFO - Retrieved 501 rows from cache for MSFT
+2025-04-07 01:24:45,521 - data_management - INFO - Using cached data for MSFT (daily)
+2025-04-07 01:24:45,521 - __main__ - INFO - Successfully fetched 501 rows for MSFT
+2025-04-07 01:24:45,521 - __main__ - INFO - Date range: 2023-11-24 01:17:18.665985 to 2025-04-07 01:17:18.665985
+2025-04-07 01:24:45,521 - __main__ - INFO - Columns: ['open', 'high', 'low', 'close', 'volume']
+2025-04-07 01:24:45,639 - __main__ - INFO - Saved price chart to MSFT_daily_test.png
+2025-04-07 01:24:45,639 - __main__ - INFO - Attempting to fetch NIFTY on NSE with daily interval...
+2025-04-07 01:24:45,644 - data_management - INFO - Retrieved 1000 rows from cache for NIFTY
+2025-04-07 01:24:45,644 - data_management - INFO - Using cached data for NIFTY (daily)
+2025-04-07 01:24:45,644 - __main__ - INFO - Successfully fetched 1000 rows for NIFTY
+2025-04-07 01:24:45,644 - __main__ - INFO - Date range: 2021-03-25 03:45:00 to 2025-04-04 03:45:00
+2025-04-07 01:24:45,645 - __main__ - INFO - Columns: ['open', 'high', 'low', 'close', 'volume']
+2025-04-07 01:24:45,763 - __main__ - INFO - Saved price chart to NIFTY_daily_test.png
+2025-04-07 01:24:45,763 - __main__ - INFO - Attempting to fetch RELIANCE on NSE with daily interval...
+2025-04-07 01:24:45,767 - data_management - INFO - Retrieved 1000 rows from cache for RELIANCE
+2025-04-07 01:24:45,767 - data_management - INFO - Using cached data for RELIANCE (daily)
+2025-04-07 01:24:45,767 - __main__ - INFO - Successfully fetched 1000 rows for RELIANCE
+2025-04-07 01:24:45,767 - __main__ - INFO - Date range: 2021-03-25 03:45:00 to 2025-04-04 03:45:00
+2025-04-07 01:24:45,767 - __main__ - INFO - Columns: ['open', 'high', 'low', 'close', 'volume']
+2025-04-07 01:24:45,884 - __main__ - INFO - Saved price chart to RELIANCE_daily_test.png
+2025-04-07 01:24:45,884 - __main__ - INFO - === Running Simple Backtest ===
+2025-04-07 01:24:45,884 - __main__ - INFO - Loading configuration...
+2025-04-07 01:24:45,884 - __main__ - INFO - Loading config from: /home/vijji/advanced_fld_cycles/fib_cycles_system/config/config.json
+2025-04-07 01:24:45,884 - __main__ - INFO - Creating data fetcher and backtest engine...
+2025-04-07 01:24:46,187 - tvDatafeed.main - ERROR - error while signin
+2025-04-07 01:24:46,188 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-04-07 01:24:46,188 - data_management - INFO - TradingView data source initialized
+2025-04-07 01:24:46,188 - data_management - INFO - Yahoo Finance data source initialized
+2025-04-07 01:24:46,494 - tvDatafeed.main - ERROR - error while signin
+2025-04-07 01:24:46,494 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-04-07 01:24:46,495 - data.data_management - INFO - TradingView data source initialized
+2025-04-07 01:24:46,495 - data.data_management - INFO - Yahoo Finance data source initialized
+2025-04-07 01:24:46,495 - __main__ - INFO - Running backtest for AAPL on daily timeframe...
+2025-04-07 01:24:46,495 - backtesting_framework - INFO - Starting backtest for AAPL on daily timeframe
+2025-04-07 01:24:46,499 - data_management - INFO - Retrieved 501 rows from cache for AAPL
+2025-04-07 01:24:46,499 - data_management - INFO - Using cached data for AAPL (daily)
+2025-04-07 01:24:46,500 - backtesting_framework - INFO - Fetched 365 bars of historical data
+2025-04-07 01:24:46,500 - backtesting_framework - WARNING - Adjusted processing lookback from 500 to 364 due to data size
+2025-04-07 01:24:46,500 - core.scanner_system - INFO - Analyzing AAPL on NYSE with daily interval
+2025-04-07 01:24:46,502 - data.data_management - INFO - Retrieved 501 rows from cache for AAPL
+2025-04-07 01:24:46,502 - data.data_management - INFO - Using cached data for AAPL (daily)
+2025-04-07 01:24:46,502 - core.scanner_system - INFO - Successfully fetched 501 bars of AAPL data
+2025-04-07 01:24:46,508 - core.scanner_system - INFO - Detected cycles for AAPL: [21, 55, 34]
+2025-04-07 01:24:46,532 - core.scanner_system - INFO - Analysis completed for AAPL with signal strong_sell in 0.03 seconds
+/home/vijji/advanced_fld_cycles/fib_cycles_system/backtesting/backtesting_framework.py:320: RuntimeWarning: invalid value encountered in scalar divide
+  profit_loss_pct=(profit_loss / position['allocated_capital']) * 100,
+2025-04-07 01:24:46,533 - backtesting_framework - WARNING - Adjusted lookback from 500 to 364 due to data size
+2025-04-07 01:24:46,533 - backtesting_framework - INFO - Backtest completed in 0.04 seconds with 1 trades and 0.00% total return
+2025-04-07 01:24:46,533 - __main__ - INFO - ===== Backtest Results =====
+2025-04-07 01:24:46,533 - __main__ - INFO - Symbol: AAPL
+2025-04-07 01:24:46,533 - __main__ - INFO - Period: 2025-04-07 01:17:13.241556 to 2025-04-07 01:17:13.241556
+2025-04-07 01:24:46,533 - __main__ - INFO - Initial Capital: $100000.00
+2025-04-07 01:24:46,533 - __main__ - INFO - Final Capital: $0.00
+2025-04-07 01:24:46,533 - __main__ - INFO - Total Return: 0.00%
+2025-04-07 01:24:46,533 - __main__ - INFO - Total Trades: 1
+2025-04-07 01:24:46,533 - __main__ - INFO - Win Rate: 0.00%
+2025-04-07 01:24:46,533 - __main__ - INFO - Profit Factor: 0.00
+2025-04-07 01:24:46,533 - __main__ - INFO - Max Drawdown: 100.00%
+2025-04-07 01:24:46,533 - __main__ - INFO - Sharpe Ratio: 0.00
+2025-04-07 01:24:46,577 - __main__ - ERROR - Error plotting equity curve: unsupported operand type(s) for -: 'numpy.ndarray' and 'Timestamp'
+2025-04-07 01:24:46,577 - __main__ - INFO - Backtest completed successfully!

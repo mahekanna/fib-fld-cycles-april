@@ -1,0 +1,85 @@
+==================================
+Fibonacci Harmonic Trading System
+Test Runner
+==================================
+Running tests for web UI modules...
+============================= test session starts ==============================
+platform linux -- Python 3.9.21, pytest-8.3.5, pluggy-1.5.0 -- /home/vijji/miniconda3/envs/fib_cycles/bin/python
+cachedir: .pytest_cache
+rootdir: /home/vijji/advanced_fld_cycles/fib_cycles_system
+plugins: dash-3.0.2, anyio-4.9.0
+collecting ... collected 7 items
+
+tests/web/test_cycle_visualization.py::test_create_cycle_visualization PASSED
+tests/web/test_fld_visualization.py::test_create_fld_visualization PASSED
+tests/web/test_harmonic_visualization.py::test_create_harmonic_visualization FAILED
+
+=================================== FAILURES ===================================
+______________________ test_create_harmonic_visualization ______________________
+
+mock_scan_result = <fib_cycles_system.tests.conftest.ScanResult object at 0x7f2e34be22e0>
+
+    def test_create_harmonic_visualization(mock_scan_result):
+        """Test that the harmonic pattern visualization is created successfully"""
+        # Use fixture from conftest.py
+        result = mock_scan_result
+    
+        # Call the function
+        visualization = create_harmonic_visualization(result)
+    
+        # Assert the visualization contains the expected elements
+        assert isinstance(visualization, html.Div)
+    
+        # Check for main chart
+        assert any(isinstance(child, dbc.Card) for child in visualization.children)
+    
+        # Test with failed scan result
+        failed_result = mock_scan_result
+        failed_result.success = False
+        failed_result.error = "Test error"
+    
+        # Call the function with failed result
+        failed_viz = create_harmonic_visualization(failed_result)
+    
+        # Assert that an error message is displayed
+        assert "Error" in str(failed_viz.children[0].children)
+    
+        # Test with no harmonic patterns
+        no_patterns_result = mock_scan_result
+        no_patterns_result.harmonic_patterns = {}
+    
+        # Call the function with no patterns
+        no_patterns_viz = create_harmonic_visualization(no_patterns_result)
+    
+        # Assert that a "no patterns" message is displayed
+>       assert "No harmonic patterns" in str(no_patterns_viz.children[0].children)
+E       AssertionError: assert 'No harmonic patterns' in 'Error in Harmonic Pattern Analysis'
+E        +  where 'Error in Harmonic Pattern Analysis' = str('Error in Harmonic Pattern Analysis')
+E        +    where 'Error in Harmonic Pattern Analysis' = H3('Error in Harmonic Pattern Analysis').children
+
+tests/web/test_harmonic_visualization.py:50: AssertionError
+=========================== short test summary info ============================
+FAILED tests/web/test_harmonic_visualization.py::test_create_harmonic_visualization
+!!!!!!!!!!!!!!!!!!!!!!!!!! stopping after 1 failures !!!!!!!!!!!!!!!!!!!!!!!!!!!
+========================= 1 failed, 2 passed in 0.54s ==========================
+
+Test summary:
+==================================
+============================= test session starts ==============================
+collected 7 items
+
+tests/web/test_cycle_visualization.py .                                  [ 14%]
+tests/web/test_fld_visualization.py .                                    [ 28%]
+tests/web/test_harmonic_visualization.py F                               [ 42%]
+tests/web/test_main_dashboard.py ss                                      [ 71%]
+tests/web/test_scanner_dashboard.py F                                    [ 85%]
+tests/web/test_trading_strategies_ui.py F                                [100%]
+
+==================== 3 failed, 2 passed, 2 skipped in 0.29s ====================
+2025-04-07 03:03:23,538 - [INFO] - test - This is an info message
+2025-04-07 03:03:23,538 - [WARNING] - test - This is a warning message
+2025-04-07 03:03:23,538 - [ERROR] - test - This is an error message
+2025-04-07 03:03:23,539 - [ERROR] - test.exceptions - Error during test calculation division by zero
+2025-04-07 03:03:23,540 - [INFO] - test.levels - This info message should appear
+2025-04-07 03:03:23,540 - [DEBUG] - test.levels - This debug message should now appear
+2025-04-07 03:03:23,540 - [WARNING] - test.levels - This warning message should appear

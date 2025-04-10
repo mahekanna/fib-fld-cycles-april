@@ -1,0 +1,160 @@
+{
+    "symbol": "BANKNIFTY",
+    "exchange": "NSE",
+    "interval": "15m",
+    "timestamp": "2025-04-09T03:21:02.542397",
+    "success": true,
+    "error": null,
+    "execution_time": 0.31035757064819336,
+    "lookback": 1000,
+    "price": 50575.1,
+    "detected_cycles": [
+        55,
+        34,
+        21
+    ],
+    "cycle_powers": {
+        "55": 0.1,
+        "34": 0.1,
+        "21": 0.1
+    },
+    "cycle_states": [
+        {
+            "cycle_length": 55,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:BANKNIFTY",
+                50093.65,
+                50329.6,
+                50046.05,
+                50286.3,
+                7429904.0,
+                50187.82,
+                50220.65,
+                50188.9,
+                50237.06,
+                50286.3,
+                50102.22734679633,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 0,
+            "fld_value": 50404.2608011207,
+            "price_value": 50575.1,
+            "price_to_fld_ratio": 1.0033893801072369
+        },
+        {
+            "cycle_length": 34,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:BANKNIFTY",
+                49575.45,
+                49958.2,
+                49569.75,
+                49907.45,
+                20603485.0,
+                49763.98,
+                49811.8,
+                49752.71,
+                49835.71,
+                49907.45,
+                49928.20332855192,
+                49702.035899715556,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 1,
+            "fld_value": 50464.71438689887,
+            "price_value": 50575.1,
+            "price_to_fld_ratio": 1.0021873821033611
+        },
+        {
+            "cycle_length": 21,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:BANKNIFTY",
+                50493.7,
+                50607.65,
+                50477.0,
+                50575.1,
+                15141783.0,
+                50542.32,
+                50553.25,
+                50538.36,
+                50558.71,
+                50575.1,
+                50404.2608011207,
+                50464.71438689887,
+                50517.82362677493,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 0,
+            "fld_value": 50517.82362677493,
+            "price_value": 50575.1,
+            "price_to_fld_ratio": 1.0011337854466618
+        }
+    ],
+    "harmonic_relationships": {
+        "55:34": {
+            "ratio": 0.6181818181818182,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "55:21": {
+            "ratio": 0.38181818181818183,
+            "harmonic": "None",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "34:21": {
+            "ratio": 0.6176470588235294,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.76470588235294,
+            "power": 0.6176470588235294
+        }
+    },
+    "signal": {
+        "signal": "strong_buy",
+        "strength": 1.0,
+        "alignment": 1.0,
+        "confidence": "high",
+        "direction": "long"
+    },
+    "position_guidance": {
+        "entry_price": 50575.1,
+        "stop_loss": 50183.14420425057,
+        "target_price": 51359.01159149885,
+        "position_size": 1.0,
+        "risk": 391.9557957494253,
+        "reward": 783.9115914988506,
+        "risk_reward_ratio": 2.0,
+        "risk_percentage": 0.7749975694549794,
+        "target_percentage": 1.5499951389099589,
+        "direction": "long"
+    },
+    "has_data": true,
+    "has_chart": false
+}

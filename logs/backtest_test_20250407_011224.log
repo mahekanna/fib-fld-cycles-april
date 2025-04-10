@@ -1,0 +1,14 @@
+2025-04-07 01:12:25,501 - __main__ - INFO - Project root: /home/vijji/advanced_fld_cycles/fib_cycles_system
+Traceback (most recent call last):
+  File "/home/vijji/advanced_fld_cycles/fib_cycles_system/backtesting/backtesting_framework.py", line 26, in <module>
+    from models.backtest_trade import BacktestTrade
+ModuleNotFoundError: No module named 'models.backtest_trade'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/vijji/advanced_fld_cycles/fib_cycles_system/test_backtest.py", line 27, in <module>
+    from backtesting.backtesting_framework import BacktestEngine, BacktestParameters
+  File "/home/vijji/advanced_fld_cycles/fib_cycles_system/backtesting/backtesting_framework.py", line 30, in <module>
+    from ..core.scanner import FibCycleScanner
+ImportError: attempted relative import beyond top-level package

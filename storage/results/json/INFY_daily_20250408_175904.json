@@ -1,0 +1,160 @@
+{
+    "symbol": "INFY",
+    "exchange": "NSE",
+    "interval": "daily",
+    "timestamp": "2025-04-08T17:59:01.396937",
+    "success": true,
+    "error": null,
+    "execution_time": 0.8878688812255859,
+    "lookback": 1000,
+    "price": 1428.8,
+    "detected_cycles": [
+        55,
+        34,
+        21
+    ],
+    "cycle_powers": {
+        "55": 0.1,
+        "34": 0.1,
+        "21": 0.1
+    },
+    "cycle_states": [
+        {
+            "cycle_length": 55,
+            "is_bullish": false,
+            "recent_crossover": [
+                "NSE:INFY",
+                1905.0,
+                1905.0,
+                1878.6,
+                1880.3,
+                3828734.0,
+                1891.8,
+                1887.97,
+                1892.22,
+                1886.05,
+                1880.3,
+                1889.162801111739,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                "bearish"
+            ],
+            "days_since_crossover": 57,
+            "fld_value": 1602.347833035367,
+            "price_value": 1428.8,
+            "price_to_fld_ratio": 0.8916915357219217
+        },
+        {
+            "cycle_length": 34,
+            "is_bullish": false,
+            "recent_crossover": [
+                "NSE:INFY",
+                1905.0,
+                1905.0,
+                1878.6,
+                1880.3,
+                3828734.0,
+                1891.8,
+                1887.97,
+                1892.22,
+                1886.05,
+                1880.3,
+                1889.162801111739,
+                1886.4328018216086,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                "bearish"
+            ],
+            "days_since_crossover": 57,
+            "fld_value": 1552.5950093481176,
+            "price_value": 1428.8,
+            "price_to_fld_ratio": 0.9202657430928526
+        },
+        {
+            "cycle_length": 21,
+            "is_bullish": false,
+            "recent_crossover": [
+                "NSE:INFY",
+                1626.0,
+                1637.75,
+                1595.0,
+                1599.45,
+                6651302.0,
+                1616.38,
+                1610.73,
+                1614.55,
+                1607.91,
+                1599.45,
+                1687.8313922578989,
+                1649.04432381781,
+                1620.3854551060915,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                "bearish"
+            ],
+            "days_since_crossover": 13,
+            "fld_value": 1508.720459855596,
+            "price_value": 1428.8,
+            "price_to_fld_ratio": 0.9470276555650041
+        }
+    ],
+    "harmonic_relationships": {
+        "55:34": {
+            "ratio": 0.6181818181818182,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "55:21": {
+            "ratio": 0.38181818181818183,
+            "harmonic": "None",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "34:21": {
+            "ratio": 0.6176470588235294,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.76470588235294,
+            "power": 0.6176470588235294
+        }
+    },
+    "signal": {
+        "signal": "strong_sell",
+        "strength": -1.0,
+        "alignment": 1.0,
+        "confidence": "high",
+        "direction": "short"
+    },
+    "position_guidance": {
+        "entry_price": 1428.8,
+        "stop_loss": 1533.5576519032188,
+        "target_price": 1219.2846961935622,
+        "position_size": 1.0,
+        "risk": 104.75765190321886,
+        "reward": 209.51530380643771,
+        "risk_reward_ratio": 2.0,
+        "risk_percentage": 7.331862535219686,
+        "target_percentage": 14.663725070439371,
+        "direction": "short"
+    },
+    "has_data": true,
+    "has_chart": false
+}

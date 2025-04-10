@@ -1,0 +1,3 @@
+2025-04-07 03:03:23,540 - [INFO] - test.levels - This info message should appear
+2025-04-07 03:03:23,540 - [DEBUG] - test.levels - This debug message should now appear
+2025-04-07 03:03:23,540 - [WARNING] - test.levels - This warning message should appear

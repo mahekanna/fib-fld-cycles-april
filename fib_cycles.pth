@@ -1,0 +1,8 @@
+# This file should be placed in your site-packages directory to permanently add
+# the project root to Python's path. To install, run:
+# 
+# pip install -e .
+#
+# Or manually copy this file to your site-packages directory.
+
+/home/vijji/advanced_fld_cycles/fib_cycles_system

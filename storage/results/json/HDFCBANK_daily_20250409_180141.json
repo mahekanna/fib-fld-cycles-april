@@ -1,0 +1,19 @@
+{
+    "symbol": "HDFCBANK",
+    "exchange": "NSE",
+    "interval": "daily",
+    "timestamp": "2025-04-09T18:01:37.550943",
+    "success": false,
+    "error": "No data fetched",
+    "execution_time": 0.0,
+    "lookback": 1000,
+    "price": 0.0,
+    "detected_cycles": [],
+    "cycle_powers": {},
+    "cycle_states": [],
+    "harmonic_relationships": {},
+    "signal": {},
+    "position_guidance": {},
+    "has_data": false,
+    "has_chart": false
+}

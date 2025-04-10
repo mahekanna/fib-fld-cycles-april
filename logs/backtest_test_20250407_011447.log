@@ -1,0 +1,12 @@
+2025-04-07 01:14:48,133 - __main__ - INFO - Project root: /home/vijji/advanced_fld_cycles/fib_cycles_system
+2025-04-07 01:14:48,135 - __main__ - INFO - Successfully imported config module
+2025-04-07 01:14:48,843 - __main__ - INFO - Successfully imported backtesting framework
+2025-04-07 01:14:48,843 - __main__ - INFO - Successfully imported data management
+2025-04-07 01:14:48,844 - __main__ - INFO - === Testing Data Fetcher ===
+2025-04-07 01:14:48,844 - __main__ - INFO - Testing data fetcher...
+Traceback (most recent call last):
+  File "/home/vijji/advanced_fld_cycles/fib_cycles_system/test_backtest.py", line 192, in <module>
+    test_data_fetcher()
+  File "/home/vijji/advanced_fld_cycles/fib_cycles_system/test_backtest.py", line 147, in test_data_fetcher
+    config = load_config()
+TypeError: load_config() missing 1 required positional argument: 'config_path'

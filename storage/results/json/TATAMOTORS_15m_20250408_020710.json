@@ -1,0 +1,160 @@
+{
+    "symbol": "TATAMOTORS",
+    "exchange": "NSE",
+    "interval": "15m",
+    "timestamp": "2025-04-08T02:07:08.722245",
+    "success": true,
+    "error": null,
+    "execution_time": 2.4106037616729736,
+    "lookback": 10000,
+    "price": 581.45,
+    "detected_cycles": [
+        55,
+        34,
+        21
+    ],
+    "cycle_powers": {
+        "55": 0.1,
+        "34": 0.1,
+        "21": 0.1
+    },
+    "cycle_states": [
+        {
+            "cycle_length": 55,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:TATAMOTORS",
+                575.7,
+                581.6,
+                573.6,
+                580.5,
+                2244791.0,
+                577.6,
+                578.57,
+                577.85,
+                579.05,
+                580.5,
+                578.5328923805471,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 0,
+            "fld_value": 578.6837273887852,
+            "price_value": 581.45,
+            "price_to_fld_ratio": 1.0047802840831506
+        },
+        {
+            "cycle_length": 34,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:TATAMOTORS",
+                571.15,
+                574.75,
+                570.25,
+                574.35,
+                1230087.0,
+                572.5,
+                573.12,
+                572.62,
+                573.42,
+                574.35,
+                580.1325160742145,
+                571.7080799424916,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 0,
+            "fld_value": 574.364012179649,
+            "price_value": 581.45,
+            "price_to_fld_ratio": 1.0123371027259533
+        },
+        {
+            "cycle_length": 21,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:TATAMOTORS",
+                564.35,
+                569.25,
+                564.35,
+                566.35,
+                1423861.0,
+                566.8,
+                566.65,
+                566.07,
+                566.58,
+                566.35,
+                582.7443120730591,
+                572.6652717943314,
+                566.2968435444686,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 0,
+            "fld_value": 574.3236351982792,
+            "price_value": 581.45,
+            "price_to_fld_ratio": 1.0124082736021485
+        }
+    ],
+    "harmonic_relationships": {
+        "55:34": {
+            "ratio": 0.6181818181818182,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "55:21": {
+            "ratio": 0.38181818181818183,
+            "harmonic": "None",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "34:21": {
+            "ratio": 0.6176470588235294,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.76470588235294,
+            "power": 0.6176470588235294
+        }
+    },
+    "signal": {
+        "signal": "strong_buy",
+        "strength": 1.0,
+        "alignment": 1.0,
+        "confidence": "high",
+        "direction": "long"
+    },
+    "position_guidance": {
+        "entry_price": 581.45,
+        "stop_loss": 570.2353364262223,
+        "target_price": 603.8793271475556,
+        "position_size": 1.0,
+        "risk": 11.214663573777784,
+        "reward": 22.42932714755557,
+        "risk_reward_ratio": 2.0,
+        "risk_percentage": 1.928740833051472,
+        "target_percentage": 3.857481666102944,
+        "direction": "long"
+    },
+    "has_data": true,
+    "has_chart": false
+}

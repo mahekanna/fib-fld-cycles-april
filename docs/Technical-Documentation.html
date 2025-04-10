@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fibonacci Harmonic Trading System - Technical Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #eee;
+        }
+        h2 {
+            color: #3498db;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #eee;
+        }
+        h3 {
+            color: #2980b9;
+        }
+        code {
+            background-color: #f5f5f5;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        ul, ol {
+            padding-left: 25px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fibonacci Harmonic Trading System - Technical Documentation</h1>
+
+    <h2>System Overview</h2>
+    <p>The Fibonacci Harmonic Trading System is a comprehensive market analysis and trading platform that combines cycle detection using Fast Fourier Transform (FFT) with Fibonacci relationships to identify potential market turning points. The system analyzes price data across multiple timeframes, detects dominant cycles, calculates Future Lines of Demarcation (FLD), and generates trading signals based on cycle alignment and harmonic patterns.</p>
+
+    <h2>Project Architecture</h2>
+    <p>The project follows a modular architecture with clean separation of concerns:</p>
+
+    <h3>Core Components</h3>
+    <ol>
+        <li>
+            <strong>Cycle Detection (<code>core/cycle_detection.py</code>)</strong>:
+            <ul>
+                <li>Implements FFT-based cycle detection algorithms</li>
+                <li>Identifies dominant cycles in price data</li>
+                <li>Analyzes harmonic relationships between cycles</li>
+                <li>Includes detrending and filtering for better signal quality</li>
+            </ul>
+        </li>
+        <li>
+            <strong>FLD Signal Generator (<code>core/fld_signal_generator.py</code>)</strong>:
+            <ul>
+                <li>Calculates Future Lines of Demarcation based on detected cycles</li>
+                <li>Implements crossover detection and signal generation</li>
+                <li>Includes gap detection and state tracking for better signal quality</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Scanner System (<code>core/scanner_system.py</code>)</strong>:
+            <ul>
+                <li>Orchestrates cycle detection and signal generation</li>
+                <li>Manages the scanning of multiple symbols</li>
+                <li>Filters and ranks results based on configurable criteria</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Market Regime Detector (<code>core/market_regime_detector.py</code>)</strong>:
+            <ul>
+                <li>Identifies different market regimes (trending, ranging, volatile)</li>
+                <li>Adjusts signal generation based on detected regime</li>
+                <li>Provides regime-specific trading parameters</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>Data Management</h3>
+    <ol>
+        <li>
+            <strong>Data Management (<code>data/data_management.py</code>)</strong>:
+            <ul>
+                <li>Fetches data from multiple sources (TradingView, Yahoo Finance)</li>
+                <li>Implements data processing and normalization</li>
+                <li>Manages data caching to improve performance</li>
+                <li>Supports multiple timeframes and data sources</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>Models</h3>
+    <ol>
+        <li>
+            <strong>Model Definitions (<code>models/model_definitions.py</code>)</strong>:
+            <ul>
+                <li>Defines data structures used throughout the system</li>
+                <li>Provides typed models for parameters, results, and configurations</li>
+                <li>Includes default configuration generation</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>Trading Strategies</h3>
+    <ol>
+        <li>
+            <strong>Base Trading Strategies (<code>trading/trading_strategies.py</code>)</strong>:
+            <ul>
+                <li>Implements base <code>TradingStrategy</code> class with common functionality</li>
+                <li>Provides specialized strategy classes:
+                    <ul>
+                        <li><code>FibonacciCycleStrategy</code>: Basic cycle-based strategy</li>
+                        <li><code>MultiTimeframeHarmonicStrategy</code>: Combines signals from multiple timeframes</li>
+                        <li><code>MLEnhancedCycleStrategy</code>: Adds ML filtering for signal improvement</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <strong>Practical Trading Strategies (<code>trading/practical_strategies.py</code>)</strong>:
+            <ul>
+                <li>Contains concrete strategy implementations:
+                    <ul>
+                        <li><code>AdvancedFibonacciStrategy</code>: Complex cycle and FLD based strategy</li>
+                        <li><code>SwingTradingStrategy</code>: Optimized for multi-day holding periods</li>
+                        <li><code>DayTradingStrategy</code>: Optimized for intraday trades</li>
+                        <li><code>HarmonicPatternStrategy</code>: Focuses on harmonic price patterns</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <strong>Harmonic Pattern Utility (<code>trading/harmonic_pattern_utils.py</code>)</strong>:
+            <ul>
+                <li>Implements the <code>HarmonicPatternDetector</code> class</li>
+                <li>Detects and analyzes harmonic price patterns:
+                    <ul>
+                        <li>Gartley patterns</li>
+                        <li>Butterfly patterns</li>
+                        <li>Bat patterns</li>
+                        <li>Crab patterns</li>
+                    </ul>
+                </li>
+                <li>Calculates pattern quality and completion metrics</li>
+                <li>Generates entry, stop loss, and target levels</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>Backtesting</h3>
+    <ol>
+        <li>
+            <strong>Backtesting Framework (<code>backtesting/backtesting_framework.py</code>)</strong>:
+            <ul>
+                <li>Provides infrastructure for strategy testing</li>
+                <li>Simulates trades based on historical data</li>
+                <li>Calculates performance metrics</li>
+                <li>Generates performance reports</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>Visualization</h3>
+    <ol>
+        <li>
+            <strong>Visualization System (<code>visualization/visualization_system.py</code>)</strong>:
+            <ul>
+                <li>Generates comprehensive price charts with cycle overlays</li>
+                <li>Visualizes detected cycles, FLDs, and signals</li>
+                <li>Provides multiple chart types and visualization options</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>Web Interface</h3>
+    <ol>
+        <li>
+            <strong>Dashboard Implementation (<code>web/dashboard_implementation.py</code>)</strong>:
+            <ul>
+                <li>Provides interactive web dashboard for system monitoring</li>
+                <li>Displays real-time signals and analysis</li>
+                <li>Includes configurable views and filters</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>Integration</h3>
+    <ol>
+        <li>
+            <strong>Broker Integration (<code>integration/broker_integration.py</code>)</strong>:
+            <ul>
+                <li>Connects to brokerage APIs</li>
+                <li>Implements order placement and management</li>
+                <li>Handles position tracking and updates</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Telegram Bot (<code>telegram/telegram_bot.py</code>)</strong>:
+            <ul>
+                <li>Provides alert notifications via Telegram</li>
+                <li>Implements command handling for remote monitoring</li>
+                <li>Delivers signal and performance updates</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>ML Enhancements</h3>
+    <ol>
+        <li>
+            <strong>ML Enhancements (<code>ml/ml_enhancements.py</code>)</strong>:
+            <ul>
+                <li>Implements machine learning models for signal enhancement</li>
+                <li>Adds anomaly detection to identify abnormal market behavior</li>
+                <li>Includes regime classification for adaptive trading</li>
+                <li>Uses ensemble methods for improved signal quality</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>Utilities</h3>
+    <ol>
+        <li>
+            <strong>Report Generation (<code>utils/report_generation.py</code>)</strong>:
+            <ul>
+                <li>Creates HTML and PDF reports of analysis results</li>
+                <li>Generates performance metrics and visualizations</li>
+                <li>Provides custom reporting templates</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h2>System Entry Points</h2>
+    <p>The main entry point is <code>main.py</code>, which supports multiple operation modes:</p>
+    <ol>
+        <li>
+            <strong>Scan Mode</strong>:
+            <ul>
+                <li>Analyzes specified symbols to generate trading signals</li>
+                <li>Filters and ranks results based on configuration</li>
+                <li>Generates reports with signals and visualizations</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Backtest Mode</strong>:
+            <ul>
+                <li>Tests strategies against historical data</li>
+                <li>Calculates performance metrics</li>
+                <li>Generates detailed backtest reports</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Dashboard Mode</strong>:
+            <ul>
+                <li>Launches interactive web dashboard</li>
+                <li>Provides real-time monitoring and analysis</li>
+                <li>Supports user-configurable views and filters</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h2>Configuration</h2>
+    <p>The system uses a comprehensive configuration system (<code>config/config.json</code>) that includes:</p>
+    <ol>
+        <li>
+            <strong>General Settings</strong>:
+            <ul>
+                <li>Default exchange and data source</li>
+                <li>Symbol configuration</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Data Settings</strong>:
+            <ul>
+                <li>Cache directory and expiry timeframes</li>
+                <li>Database configuration</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Analysis Parameters</strong>:
+            <ul>
+                <li>Cycle detection parameters</li>
+                <li>Fibonacci cycle values</li>
+                <li>Processing options</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Scanner Settings</strong>:
+            <ul>
+                <li>Default symbols and exchanges</li>
+                <li>Filtering and ranking criteria</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Backtest Settings</strong>:
+            <ul>
+                <li>Testing date ranges</li>
+                <li>Initial capital and position sizing</li>
+                <li>Transaction costs</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Visualization Settings</strong>:
+            <ul>
+                <li>Theme and color palette</li>
+                <li>Chart dimensions and styling</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Telegram Settings</strong>:
+            <ul>
+                <li>Bot configuration</li>
+                <li>Notification preferences</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Web Dashboard Settings</strong>:
+            <ul>
+                <li>Host and port configuration</li>
+                <li>Refresh intervals</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h2>Key Functionalities</h2>
+
+    <h3>Cycle Detection & Analysis</h3>
+    <ul>
+        <li>Identifies dominant market cycles using Fast Fourier Transform</li>
+        <li>Detects harmonic relationships between cycles</li>
+        <li>Analyzes cycle strength and alignment for signal generation</li>
+    </ul>
+
+    <h3>FLD Calculation & Signal Generation</h3>
+    <ul>
+        <li>Calculates Future Lines of Demarcation based on cycle lengths</li>
+        <li>Detects meaningful crossovers of price and FLDs</li>
+        <li>Generates trading signals with confidence metrics</li>
+    </ul>
+
+    <h3>Harmonic Pattern Recognition</h3>
+    <ul>
+        <li>Identifies common harmonic patterns: Gartley, Butterfly, Bat, and Crab</li>
+        <li>Calculates pattern quality and completion metrics</li>
+        <li>Generates entry, stop, and target levels based on patterns</li>
+    </ul>
+
+    <h3>Multiple Trading Strategies</h3>
+    <ul>
+        <li>Base strategies for different trading approaches (swing, day, harmonic)</li>
+        <li>Multi-timeframe strategies for comprehensive analysis</li>
+        <li>ML-enhanced strategies for improved signal quality</li>
+    </ul>
+
+    <h3>Backtesting & Performance Analysis</h3>
+    <ul>
+        <li>Comprehensive backtesting framework for strategy validation</li>
+        <li>Position sizing and risk management</li>
+        <li>Performance metrics calculation and reporting</li>
+    </ul>
+
+    <h3>Visualization & Reporting</h3>
+    <ul>
+        <li>Advanced charting with cycle and FLD overlays</li>
+        <li>Interactive dashboard for real-time monitoring</li>
+        <li>Detailed reporting for analysis and backtesting</li>
+    </ul>
+
+    <h3>External Integrations</h3>
+    <ul>
+        <li>Broker connections for live trading</li>
+        <li>Telegram notifications for alerts and monitoring</li>
+        <li>Data sources: TradingView, Yahoo Finance</li>
+    </ul>
+
+    <h2>Technical Implementation Details</h2>
+    <ol>
+        <li>
+            <strong>FFT Analysis</strong>:
+            <ul>
+                <li>Uses SciPy's FFT implementation for cycle detection</li>
+                <li>Applies detrending and windowing for improved results</li>
+                <li>Filters results based on power thresholds</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Fibonacci Relationships</strong>:
+            <ul>
+                <li>Focuses on key Fibonacci cycles: 21, 34, 55, 89, 144, 233</li>
+                <li>Analyzes harmonic relationships between cycles</li>
+                <li>Uses Fibonacci ratios for pattern recognition</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Data Processing</strong>:
+            <ul>
+                <li>Implements caching to improve performance</li>
+                <li>Supports multiple data sources with adapter pattern</li>
+                <li>Includes normalization and feature calculation</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Signal Generation</strong>:
+            <ul>
+                <li>Combines cycle alignment, strength, and confidence</li>
+                <li>Uses multi-factor approach for improved quality</li>
+                <li>Includes regime-specific adjustments</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Pattern Recognition</strong>:
+            <ul>
+                <li>Implements Fibonacci retracement analysis</li>
+                <li>Calculates pattern quality based on ratio matching</li>
+                <li>Provides entry, stop, and target recommendations</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h2>Conclusion</h2>
+    <p>The Fibonacci Harmonic Trading System provides a comprehensive framework for market analysis, signal generation, and trading automation. Its modular architecture allows for easy extension and customization, while its advanced technical analysis capabilities provide deep market insights based on cyclic analysis and Fibonacci relationships.</p>
+</body>
+</html>

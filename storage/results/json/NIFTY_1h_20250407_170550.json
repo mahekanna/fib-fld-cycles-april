@@ -1,0 +1,197 @@
+{
+    "symbol": "NIFTY",
+    "exchange": "NSE",
+    "interval": "1h",
+    "timestamp": "2025-04-07T17:05:50.175442",
+    "success": true,
+    "error": null,
+    "execution_time": 6.61786675453186,
+    "price": 22238.0,
+    "detected_cycles": [
+        89,
+        55,
+        34,
+        21
+    ],
+    "cycle_powers": {
+        "89": 0.1,
+        "55": 0.1,
+        "34": 0.1,
+        "21": 0.1
+    },
+    "cycle_states": [
+        {
+            "cycle_length": 89,
+            "is_bullish": false,
+            "recent_crossover": [
+                "NSE:NIFTY",
+                23455.6,
+                23483.7,
+                23221.15,
+                23228.95,
+                59884856.0,
+                23228.95,
+                23437.78565810984,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                "bearish"
+            ],
+            "days_since_crossover": 6,
+            "fld_value": 22906.07116592198,
+            "price_value": 22238.0,
+            "price_to_fld_ratio": 0.9708343189417883
+        },
+        {
+            "cycle_length": 55,
+            "is_bullish": false,
+            "recent_crossover": [
+                "NSE:NIFTY",
+                23544.25,
+                23545.3,
+                23450.2,
+                23495.15,
+                32945686.0,
+                23495.15,
+                23446.877196570465,
+                23533.266969118657,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                "bearish"
+            ],
+            "days_since_crossover": 10,
+            "fld_value": 22721.039638959024,
+            "price_value": 22238.0,
+            "price_to_fld_ratio": 0.9787404253223179
+        },
+        {
+            "cycle_length": 34,
+            "is_bullish": false,
+            "recent_crossover": [
+                "NSE:NIFTY",
+                23338.0,
+                23342.0,
+                23324.6,
+                23330.8,
+                30441909.0,
+                23330.8,
+                23362.163133619924,
+                23364.805428578245,
+                23331.06790840255,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                "bearish"
+            ],
+            "days_since_crossover": 5,
+            "fld_value": 22523.88261440746,
+            "price_value": 22238.0,
+            "price_to_fld_ratio": 0.9873075783912764
+        },
+        {
+            "cycle_length": 21,
+            "is_bullish": false,
+            "recent_crossover": [
+                "NSE:NIFTY",
+                23162.5,
+                23282.45,
+                23145.8,
+                23277.6,
+                77153650.0,
+                23277.6,
+                23358.486475636448,
+                23358.79126109009,
+                23325.43970751807,
+                23297.370319836344,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                "bearish"
+            ],
+            "days_since_crossover": 4,
+            "fld_value": 22323.81743234271,
+            "price_value": 22238.0,
+            "price_to_fld_ratio": 0.9961557904420784
+        }
+    ],
+    "harmonic_relationships": {
+        "89:55": {
+            "ratio": 0.6179775280898876,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.79775280898876,
+            "power": 0.6179775280898876
+        },
+        "89:34": {
+            "ratio": 0.38202247191011235,
+            "harmonic": "None",
+            "precision": 61.79775280898876,
+            "power": 0.6179775280898876
+        },
+        "89:21": {
+            "ratio": 0.23595505617977527,
+            "harmonic": "None",
+            "precision": 76.40449438202246,
+            "power": 0.7640449438202247
+        },
+        "55:34": {
+            "ratio": 0.6181818181818182,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "55:21": {
+            "ratio": 0.38181818181818183,
+            "harmonic": "None",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "34:21": {
+            "ratio": 0.6176470588235294,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.76470588235294,
+            "power": 0.6176470588235294
+        }
+    },
+    "signal": {
+        "signal": "strong_sell",
+        "strength": -0.9788944723618092,
+        "alignment": 1.0,
+        "confidence": "high",
+        "direction": "short"
+    },
+    "position_guidance": {
+        "entry_price": 22238.0,
+        "stop_loss": 22569.476593046227,
+        "target_price": 21575.046813907546,
+        "position_size": 1.0,
+        "risk": 331.4765930462272,
+        "reward": 662.9531860924544,
+        "risk_reward_ratio": 2.0,
+        "risk_percentage": 1.49058635239782,
+        "target_percentage": 2.98117270479564,
+        "direction": "short"
+    },
+    "has_data": true,
+    "has_chart": true
+}

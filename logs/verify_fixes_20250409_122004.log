@@ -1,0 +1,218 @@
+2025-04-09 12:20:04,604 - [INFO] - test_fixes - Starting test script for Fibonacci Cycles Trading System fixes
+2025-04-09 12:20:04,604 - [INFO] - test_fixes - Testing interval handling...
+2025-04-09 12:20:04,690 - [WARNING] - tvDatafeed.main - you are using nologin method, data you access may be limited
+2025-04-09 12:20:04,690 - [INFO] - data.fetcher - TvDatafeed client initialized
+2025-04-09 12:20:04,690 - [INFO] - data.fetcher - TvDatafeed client initialized
+2025-04-09 12:20:04,690 - [INFO] - test_fixes - Testing valid interval: 1m
+2025-04-09 12:20:04,690 - [INFO] - data.fetcher - Using interval: 1m (TV interval: Interval.in_1_minute)
+2025-04-09 12:20:04,690 - [INFO] - data.fetcher - Using interval: 1m (TV interval: Interval.in_1_minute)
+2025-04-09 12:20:04,691 - [INFO] - data.fetcher - Using cached data for NIFTY 1m
+2025-04-09 12:20:04,691 - [INFO] - data.fetcher - Using cached data for NIFTY 1m
+2025-04-09 12:20:04,691 - [INFO] - test_fixes - ✅ Successfully fetched data for interval 1m - got 10 rows
+2025-04-09 12:20:04,691 - [INFO] - test_fixes - Testing valid interval: 5m
+2025-04-09 12:20:04,691 - [INFO] - data.fetcher - Using interval: 5m (TV interval: Interval.in_5_minute)
+2025-04-09 12:20:04,691 - [INFO] - data.fetcher - Using interval: 5m (TV interval: Interval.in_5_minute)
+2025-04-09 12:20:04,691 - [INFO] - data.fetcher - Using cached data for NIFTY 5m
+2025-04-09 12:20:04,691 - [INFO] - data.fetcher - Using cached data for NIFTY 5m
+2025-04-09 12:20:04,691 - [INFO] - test_fixes - ✅ Successfully fetched data for interval 5m - got 10 rows
+2025-04-09 12:20:04,691 - [INFO] - test_fixes - Testing valid interval: 15m
+2025-04-09 12:20:04,691 - [INFO] - data.fetcher - Using interval: 15m (TV interval: Interval.in_15_minute)
+2025-04-09 12:20:04,691 - [INFO] - data.fetcher - Using interval: 15m (TV interval: Interval.in_15_minute)
+2025-04-09 12:20:04,692 - [INFO] - data.fetcher - Using cached data for NIFTY 15m
+2025-04-09 12:20:04,692 - [INFO] - data.fetcher - Using cached data for NIFTY 15m
+2025-04-09 12:20:04,692 - [INFO] - test_fixes - ✅ Successfully fetched data for interval 15m - got 10 rows
+2025-04-09 12:20:04,692 - [INFO] - test_fixes - Testing valid interval: 30m
+2025-04-09 12:20:04,692 - [INFO] - data.fetcher - Using interval: 30m (TV interval: Interval.in_30_minute)
+2025-04-09 12:20:04,692 - [INFO] - data.fetcher - Using interval: 30m (TV interval: Interval.in_30_minute)
+2025-04-09 12:20:04,692 - [INFO] - data.fetcher - Using cached data for NIFTY 30m
+2025-04-09 12:20:04,692 - [INFO] - data.fetcher - Using cached data for NIFTY 30m
+2025-04-09 12:20:04,693 - [INFO] - test_fixes - ✅ Successfully fetched data for interval 30m - got 10 rows
+2025-04-09 12:20:04,693 - [INFO] - test_fixes - Testing valid interval: 1h
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using interval: 1h (TV interval: Interval.in_1_hour)
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using interval: 1h (TV interval: Interval.in_1_hour)
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using cached data for NIFTY 1h
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using cached data for NIFTY 1h
+2025-04-09 12:20:04,693 - [INFO] - test_fixes - ✅ Successfully fetched data for interval 1h - got 10 rows
+2025-04-09 12:20:04,693 - [INFO] - test_fixes - Testing valid interval: 2h
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using interval: 2h (TV interval: Interval.in_2_hour)
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using interval: 2h (TV interval: Interval.in_2_hour)
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using cached data for NIFTY 2h
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using cached data for NIFTY 2h
+2025-04-09 12:20:04,693 - [INFO] - test_fixes - ✅ Successfully fetched data for interval 2h - got 10 rows
+2025-04-09 12:20:04,693 - [INFO] - test_fixes - Testing valid interval: 4h
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using interval: 4h (TV interval: Interval.in_4_hour)
+2025-04-09 12:20:04,693 - [INFO] - data.fetcher - Using interval: 4h (TV interval: Interval.in_4_hour)
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using cached data for NIFTY 4h
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using cached data for NIFTY 4h
+2025-04-09 12:20:04,694 - [INFO] - test_fixes - ✅ Successfully fetched data for interval 4h - got 10 rows
+2025-04-09 12:20:04,694 - [INFO] - test_fixes - Testing valid interval: daily
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using cached data for NIFTY daily
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using cached data for NIFTY daily
+2025-04-09 12:20:04,694 - [INFO] - test_fixes - ✅ Successfully fetched data for interval daily - got 10 rows
+2025-04-09 12:20:04,694 - [INFO] - test_fixes - Testing valid interval: weekly
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using interval: weekly (TV interval: Interval.in_weekly)
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using interval: weekly (TV interval: Interval.in_weekly)
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using cached data for NIFTY weekly
+2025-04-09 12:20:04,694 - [INFO] - data.fetcher - Using cached data for NIFTY weekly
+2025-04-09 12:20:04,695 - [INFO] - test_fixes - ✅ Successfully fetched data for interval weekly - got 10 rows
+2025-04-09 12:20:04,695 - [INFO] - test_fixes - Testing valid interval: monthly
+2025-04-09 12:20:04,695 - [INFO] - data.fetcher - Using interval: monthly (TV interval: Interval.in_monthly)
+2025-04-09 12:20:04,695 - [INFO] - data.fetcher - Using interval: monthly (TV interval: Interval.in_monthly)
+2025-04-09 12:20:04,695 - [INFO] - data.fetcher - Using cached data for NIFTY monthly
+2025-04-09 12:20:04,695 - [INFO] - data.fetcher - Using cached data for NIFTY monthly
+2025-04-09 12:20:04,695 - [INFO] - test_fixes - ✅ Successfully fetched data for interval monthly - got 10 rows
+2025-04-09 12:20:04,695 - [INFO] - test_fixes - Testing invalid interval: invalid_interval
+2025-04-09 12:20:04,695 - [ERROR] - data.fetcher - Unrecognized interval: 'invalid_interval'. Must be one of: ['1min', '5min', '15min', '30min', '1h', '2h', '4h', 'daily', 'weekly', 'monthly', '1m', '5m', '15m', '30m', '1d', '1day', '1w', '1month']
+2025-04-09 12:20:04,695 - [ERROR] - data.fetcher - Unrecognized interval: 'invalid_interval'. Must be one of: ['1min', '5min', '15min', '30min', '1h', '2h', '4h', 'daily', 'weekly', 'monthly', '1m', '5m', '15m', '30m', '1d', '1day', '1w', '1month']
+2025-04-09 12:20:04,695 - [INFO] - test_fixes - ✅ Correctly raised ValueError for invalid interval: Unrecognized interval: 'invalid_interval'. Must be one of: ['1min', '5min', '15min', '30min', '1h', '2h', '4h', 'daily', 'weekly', 'monthly', '1m', '5m', '15m', '30m', '1d', '1day', '1w', '1month']
+2025-04-09 12:20:04,695 - [INFO] - test_fixes - Interval handling test completed
+
+
+2025-04-09 12:20:04,695 - [INFO] - test_fixes - Testing lookback parameter respect...
+2025-04-09 12:20:05,232 - [WARNING] - tvDatafeed.main - you are using nologin method, data you access may be limited
+2025-04-09 12:20:05,232 - [INFO] - data.fetcher - TvDatafeed client initialized
+2025-04-09 12:20:05,232 - [INFO] - data.fetcher - TvDatafeed client initialized
+2025-04-09 12:20:05,232 - [INFO] - data.data_management - Original DataFetcher initialized
+2025-04-09 12:20:05,232 - [INFO] - data.data_management - Original DataFetcher initialized
+2025-04-09 12:20:05,232 - [INFO] - test_fixes - Testing with lookback=100
+2025-04-09 12:20:05,232 - [INFO] - core.scanner_system - Analyzing NIFTY on NSE with daily interval
+2025-04-09 12:20:05,232 - [INFO] - core.scanner_system - Analyzing NIFTY on NSE with daily interval
+2025-04-09 12:20:05,232 - [INFO] - core.scanner_system - Fetching data for NIFTY with interval daily
+2025-04-09 12:20:05,232 - [INFO] - core.scanner_system - Fetching data for NIFTY with interval daily
+2025-04-09 12:20:05,232 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:05,232 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:05,232 - [INFO] - data.fetcher - Fetching 100 bars of NIFTY daily data from NSE
+2025-04-09 12:20:05,232 - [INFO] - data.fetcher - Fetching 100 bars of NIFTY daily data from NSE
+2025-04-09 12:20:05,462 - [INFO] - data.fetcher - Successfully fetched 100 bars for NIFTY
+2025-04-09 12:20:05,462 - [INFO] - data.fetcher - Successfully fetched 100 bars for NIFTY
+2025-04-09 12:20:05,463 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:05,463 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:05,463 - [INFO] - core.scanner_system - Successfully fetched 100 bars of NIFTY data
+2025-04-09 12:20:05,463 - [INFO] - core.scanner_system - Successfully fetched 100 bars of NIFTY data
+2025-04-09 12:20:05,463 - [INFO] - core.scanner_system - Using 'close' column for cycle detection
+2025-04-09 12:20:05,463 - [INFO] - core.scanner_system - Using 'close' column for cycle detection
+2025-04-09 12:20:05,464 - [INFO] - core.scanner_system - Price series for cycle detection - Min: 22082.65, Max: 24768.30, Mean: 23399.24
+2025-04-09 12:20:05,464 - [INFO] - core.scanner_system - Price series for cycle detection - Min: 22082.65, Max: 24768.30, Mean: 23399.24
+2025-04-09 12:20:05,464 - [INFO] - core.scanner_system - Detected cycles for NIFTY: [np.int64(12), np.int64(11), 21]
+2025-04-09 12:20:05,464 - [INFO] - core.scanner_system - Detected cycles for NIFTY: [np.int64(12), np.int64(11), 21]
+2025-04-09 12:20:05,464 - [INFO] - core.scanner_system - Calculating FLDs using price source: close
+2025-04-09 12:20:05,464 - [INFO] - core.scanner_system - Calculating FLDs using price source: close
+2025-04-09 12:20:05,464 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 12
+2025-04-09 12:20:05,464 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 12
+2025-04-09 12:20:05,468 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 11
+2025-04-09 12:20:05,468 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 11
+2025-04-09 12:20:05,471 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 21
+2025-04-09 12:20:05,471 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 21
+2025-04-09 12:20:05,650 - [WARNING] - core.scanner_system - PRICE SOURCE: Setting NIFTY price to 22399.15 from most recent 'close'
+2025-04-09 12:20:05,650 - [WARNING] - core.scanner_system - PRICE SOURCE: Setting NIFTY price to 22399.15 from most recent 'close'
+2025-04-09 12:20:05,650 - [INFO] - core.scanner_system - Analysis completed for NIFTY with signal strong_sell in 0.42 seconds
+2025-04-09 12:20:05,650 - [INFO] - core.scanner_system - Analysis completed for NIFTY with signal strong_sell in 0.42 seconds
+2025-04-09 12:20:05,650 - [INFO] - test_fixes - ✅ Successfully generated chart with lookback=100
+2025-04-09 12:20:05,650 - [INFO] - test_fixes - ✅ Stored lookback value (100) matches requested lookback (100)
+2025-04-09 12:20:05,650 - [INFO] - test_fixes - Testing with lookback=200
+2025-04-09 12:20:05,650 - [INFO] - core.scanner_system - Analyzing NIFTY on NSE with daily interval
+2025-04-09 12:20:05,650 - [INFO] - core.scanner_system - Analyzing NIFTY on NSE with daily interval
+2025-04-09 12:20:05,650 - [INFO] - core.scanner_system - Fetching data for NIFTY with interval daily
+2025-04-09 12:20:05,650 - [INFO] - core.scanner_system - Fetching data for NIFTY with interval daily
+2025-04-09 12:20:05,650 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:05,650 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:05,650 - [INFO] - data.fetcher - Fetching 200 bars of NIFTY daily data from NSE
+2025-04-09 12:20:05,650 - [INFO] - data.fetcher - Fetching 200 bars of NIFTY daily data from NSE
+2025-04-09 12:20:05,976 - [INFO] - data.fetcher - Successfully fetched 200 bars for NIFTY
+2025-04-09 12:20:05,976 - [INFO] - data.fetcher - Successfully fetched 200 bars for NIFTY
+2025-04-09 12:20:05,977 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:05,977 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:05,977 - [INFO] - core.scanner_system - Successfully fetched 200 bars of NIFTY data
+2025-04-09 12:20:05,977 - [INFO] - core.scanner_system - Successfully fetched 200 bars of NIFTY data
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Using 'close' column for cycle detection
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Using 'close' column for cycle detection
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Price series for cycle detection - Min: 22082.65, Max: 26216.05, Mean: 24059.36
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Price series for cycle detection - Min: 22082.65, Max: 26216.05, Mean: 24059.36
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Detected cycles for NIFTY: [55, 34, 21]
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Detected cycles for NIFTY: [55, 34, 21]
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Calculating FLDs using price source: close
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Calculating FLDs using price source: close
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 55
+2025-04-09 12:20:05,978 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 55
+2025-04-09 12:20:05,982 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 34
+2025-04-09 12:20:05,982 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 34
+2025-04-09 12:20:05,985 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 21
+2025-04-09 12:20:05,985 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 21
+2025-04-09 12:20:06,171 - [WARNING] - core.scanner_system - PRICE SOURCE: Setting NIFTY price to 22399.15 from most recent 'close'
+2025-04-09 12:20:06,171 - [WARNING] - core.scanner_system - PRICE SOURCE: Setting NIFTY price to 22399.15 from most recent 'close'
+2025-04-09 12:20:06,171 - [INFO] - core.scanner_system - Analysis completed for NIFTY with signal strong_sell in 0.52 seconds
+2025-04-09 12:20:06,171 - [INFO] - core.scanner_system - Analysis completed for NIFTY with signal strong_sell in 0.52 seconds
+2025-04-09 12:20:06,171 - [INFO] - test_fixes - ✅ Successfully generated chart with lookback=200
+2025-04-09 12:20:06,171 - [INFO] - test_fixes - ✅ Stored lookback value (200) matches requested lookback (200)
+2025-04-09 12:20:06,171 - [INFO] - test_fixes - Testing with lookback=500
+2025-04-09 12:20:06,171 - [INFO] - core.scanner_system - Analyzing NIFTY on NSE with daily interval
+2025-04-09 12:20:06,171 - [INFO] - core.scanner_system - Analyzing NIFTY on NSE with daily interval
+2025-04-09 12:20:06,171 - [INFO] - core.scanner_system - Fetching data for NIFTY with interval daily
+2025-04-09 12:20:06,171 - [INFO] - core.scanner_system - Fetching data for NIFTY with interval daily
+2025-04-09 12:20:06,171 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:06,171 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:06,172 - [INFO] - data.fetcher - Fetching 500 bars of NIFTY daily data from NSE
+2025-04-09 12:20:06,172 - [INFO] - data.fetcher - Fetching 500 bars of NIFTY daily data from NSE
+2025-04-09 12:20:06,505 - [INFO] - data.fetcher - Successfully fetched 500 bars for NIFTY
+2025-04-09 12:20:06,505 - [INFO] - data.fetcher - Successfully fetched 500 bars for NIFTY
+2025-04-09 12:20:06,506 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:06,506 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:06,506 - [INFO] - core.scanner_system - Successfully fetched 500 bars of NIFTY data
+2025-04-09 12:20:06,506 - [INFO] - core.scanner_system - Successfully fetched 500 bars of NIFTY data
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Using 'close' column for cycle detection
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Using 'close' column for cycle detection
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Price series for cycle detection - Min: 17599.15, Max: 26216.05, Mean: 21919.71
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Price series for cycle detection - Min: 17599.15, Max: 26216.05, Mean: 21919.71
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Detected cycles for NIFTY: [55, 34, 21]
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Detected cycles for NIFTY: [55, 34, 21]
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Calculating FLDs using price source: close
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Calculating FLDs using price source: close
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 55
+2025-04-09 12:20:06,507 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 55
+2025-04-09 12:20:06,511 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 34
+2025-04-09 12:20:06,511 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 34
+2025-04-09 12:20:06,514 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 21
+2025-04-09 12:20:06,514 - [INFO] - core.scanner_system - Using hl2 price for FLD calculation of cycle 21
+2025-04-09 12:20:06,688 - [WARNING] - core.scanner_system - PRICE SOURCE: Setting NIFTY price to 22399.15 from most recent 'close'
+2025-04-09 12:20:06,688 - [WARNING] - core.scanner_system - PRICE SOURCE: Setting NIFTY price to 22399.15 from most recent 'close'
+2025-04-09 12:20:06,688 - [INFO] - core.scanner_system - Analysis completed for NIFTY with signal strong_sell in 0.52 seconds
+2025-04-09 12:20:06,688 - [INFO] - core.scanner_system - Analysis completed for NIFTY with signal strong_sell in 0.52 seconds
+2025-04-09 12:20:06,688 - [INFO] - test_fixes - ✅ Successfully generated chart with lookback=500
+2025-04-09 12:20:06,688 - [INFO] - test_fixes - ✅ Stored lookback value (500) matches requested lookback (500)
+2025-04-09 12:20:06,688 - [INFO] - test_fixes - Lookback parameter test completed
+
+
+2025-04-09 12:20:06,688 - [INFO] - test_fixes - Testing data fetching with TvDatafeed...
+2025-04-09 12:20:06,688 - [WARNING] - tvDatafeed.main - you are using nologin method, data you access may be limited
+2025-04-09 12:20:06,689 - [INFO] - data.fetcher - TvDatafeed client initialized
+2025-04-09 12:20:06,689 - [INFO] - data.fetcher - TvDatafeed client initialized
+2025-04-09 12:20:06,689 - [INFO] - data.data_management - Original DataFetcher initialized
+2025-04-09 12:20:06,689 - [INFO] - data.data_management - Original DataFetcher initialized
+2025-04-09 12:20:06,689 - [INFO] - test_fixes - Testing data fetching for NIFTY (NSE) with interval=daily, lookback=100
+2025-04-09 12:20:06,689 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:06,689 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:06,689 - [INFO] - data.fetcher - Using cached data for NIFTY daily
+2025-04-09 12:20:06,689 - [INFO] - data.fetcher - Using cached data for NIFTY daily
+2025-04-09 12:20:06,691 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:06,691 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:06,691 - [INFO] - test_fixes - ✅ Successfully fetched data with cache - got 100 rows
+2025-04-09 12:20:06,691 - [INFO] - test_fixes - Testing data fetching for NIFTY (NSE) with interval=15m, lookback=100
+2025-04-09 12:20:06,691 - [INFO] - data.fetcher - Using interval: 15m (TV interval: Interval.in_15_minute)
+2025-04-09 12:20:06,691 - [INFO] - data.fetcher - Using interval: 15m (TV interval: Interval.in_15_minute)
+2025-04-09 12:20:06,691 - [INFO] - data.fetcher - Using cached data for NIFTY 15m
+2025-04-09 12:20:06,691 - [INFO] - data.fetcher - Using cached data for NIFTY 15m
+2025-04-09 12:20:06,692 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:06,692 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:06,693 - [INFO] - test_fixes - ✅ Successfully fetched data with cache - got 100 rows
+2025-04-09 12:20:06,693 - [INFO] - test_fixes - Testing data fetching for BANKNIFTY (NSE) with interval=daily, lookback=100
+2025-04-09 12:20:06,693 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:06,693 - [INFO] - data.fetcher - Using interval: daily (TV interval: Interval.in_daily)
+2025-04-09 12:20:06,693 - [INFO] - data.fetcher - Using cached data for BANKNIFTY daily
+2025-04-09 12:20:06,693 - [INFO] - data.fetcher - Using cached data for BANKNIFTY daily
+2025-04-09 12:20:06,694 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:06,694 - [INFO] - data.data_management - Using price source: close
+2025-04-09 12:20:06,694 - [INFO] - test_fixes - ✅ Successfully fetched data with cache - got 100 rows
+2025-04-09 12:20:06,694 - [INFO] - test_fixes - Data fetching test completed
+2025-04-09 12:20:06,695 - [INFO] - test_fixes - All tests completed

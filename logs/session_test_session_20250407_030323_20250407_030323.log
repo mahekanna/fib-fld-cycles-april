@@ -1,0 +1,4 @@
+2025-04-07 03:03:23,541 - [INFO] - session.test_session_20250407_030323 - Starting test session: test_session_20250407_030323
+2025-04-07 03:03:23,541 - [INFO] - session.test_session_20250407_030323 - Session parameter 1: value1
+2025-04-07 03:03:23,541 - [INFO] - session.test_session_20250407_030323 - Session parameter 2: value2
+2025-04-07 03:03:23,541 - [INFO] - session.test_session_20250407_030323 - Session completed successfully at 2025-04-07 03:03:23.541195

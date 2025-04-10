@@ -1,0 +1,122 @@
+I've created a comprehensive consolidated CLI tool for the Fibonacci Cycles System. The fib_cycles_cli.py script combines all the
+  functionality from various scattered scripts into a single, organized interface.
+
+  Key Features of the New CLI Tool:
+
+  1. Unified Command Structure:
+    - All system functionality now accessible through a single entry point
+    - Organized into logical commands: dashboard, analyze, backtest, scan, trade, data, setup
+  2. Comprehensive Options:
+    - Each command has detailed options for customization
+    - Common options (like --config, --debug) shared across commands
+    - Command-specific options as needed
+  3. Common Functionality Consolidation:
+    - Centralized configuration management
+    - System initialization and setup
+    - Consistent logging across all operations
+    - Cache management
+    - Process management to prevent conflicts
+  4. Improved User Experience:
+    - Colored output for better readability
+    - Clear command structure with help text
+    - Progress information during operations
+    - Consistent error handling
+  5. Added System Management:
+    - setup check to verify system health
+    - setup init to initialize the system
+    - setup config to manage configuration
+    - data commands for data management
+  6. Data Management Tools:
+    - Download market data
+    - Clean cache files
+    - Import external data sources
+  7. Trading Features:
+    - Paper and live trading modes
+    - Broker integration support
+    - Risk management parameters
+
+  Usage Examples:
+
+  # Start the dashboard UI
+  ./fib_cycles_cli.py dashboard
+
+  # Analyze specific symbols
+  ./fib_cycles_cli.py analyze --symbols NIFTY,BANKNIFTY --interval daily
+
+  # Run backtests
+  ./fib_cycles_cli.py backtest --symbols NIFTY --interval daily --strategy fld_crossover
+
+  # Scan for trading signals
+  ./fib_cycles_cli.py scan --interval daily
+
+  # Execute trading (paper trading mode)
+  ./fib_cycles_cli.py trade --symbols NIFTY --mode paper
+
+  # System management
+  ./fib_cycles_cli.py setup check
+  ./fib_cycles_cli.py setup init
+  ./fib_cycles_cli.py setup config --set "scanner.default_interval=15m"
+
+  # Data operations
+  ./fib_cycles_cli.py data download --symbols NIFTY --interval daily
+  ./fib_cycles_cli.py data clean
+  ./fib_cycles_cli.py data import external_data.csv --symbol NIFTY --interval daily
+
+  This unified tool will make the system much more manageable and user-friendly while providing a solid foundation for the algorithmic
+  trading capabilities outlined in the trading strategies documentation.
+
+---------------------------------------------------------------------------
+
+What's Been Done:
+
+  1. Created a Unified CLI Tool:
+    - Added fib_cycles_cli.py as the main entry point for all operations
+    - Made it executable and added comprehensive command-line options
+  2. Simplified Root Directory:
+    - Moved non-essential scripts and files to backup folders
+    - Kept only the core files needed for the system to function
+  3. Created a Simple Run Script:
+    - Added run.sh as a user-friendly wrapper around the CLI tool
+    - Makes it easy to run common operations with simple commands
+  4. Organized Backup Structure:
+    - Created organized backup folders:
+        - scripts: Old shell scripts
+      - docs: Documentation files
+      - test_files: Testing-related scripts
+      - legacy_scripts: Old Python scripts
+  5. Kept Essential Files at Root:
+    - Core Python modules and directories
+    - Main configuration files
+    - The new CLI and run script
+    - Essential documentation
+
+  How to Use the New Structure:
+
+  1. For General Usage:
+  # Start the dashboard
+  ./run.sh dashboard
+
+  # Analyze symbols
+  ./run.sh analyze --symbols NIFTY,BANKNIFTY
+
+  # Run a backtest
+  ./run.sh backtest --symbols NIFTY --interval daily
+
+  # Scan for signals
+  ./run.sh scan
+  2. For Advanced Usage:
+  # Use the CLI directly for more options
+  ./fib_cycles_cli.py dashboard --port 8080 --host 0.0.0.0
+
+  # Show help for a specific command
+  ./fib_cycles_cli.py analyze --help
+  3. For Maintenance:
+  # Clean the system
+  ./run.sh clean
+
+  # Setup the system
+  ./run.sh setup
+
+  This new structure is much cleaner and more maintainable, with the powerful unified CLI tool providing a consistent interface to all
+  system functions. The simple run script makes it easy for users to get started without having to remember all the CLI options.
+

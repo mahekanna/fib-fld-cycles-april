@@ -1,0 +1,9 @@
+2025-04-07 13:18:40,878 - main_dashboard - INFO - Loaded visualization modules: cycle_visualization, fld_visualization, harmonic_visualization, scanner_dashboard, trading_strategies_ui
+2025-04-07 13:18:40,879 - start_simple - INFO - Successfully imported main_dashboard module
+2025-04-07 13:18:41,184 - tvDatafeed.main - ERROR - error while signin
+2025-04-07 13:18:41,185 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-04-07 13:18:41,185 - data.data_management - INFO - TradingView data source initialized with login
+2025-04-07 13:18:41,186 - data.data_management - INFO - Yahoo Finance data source initialized
+2025-04-07 13:18:41,209 - main_dashboard - INFO - Registering backtesting callbacks
+2025-04-07 13:18:41,210 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+

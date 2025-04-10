@@ -1,0 +1,93 @@
+2025-04-07 01:17:06,503 - __main__ - INFO - Project root: /home/vijji/advanced_fld_cycles/fib_cycles_system
+2025-04-07 01:17:06,504 - __main__ - INFO - Successfully imported config module
+2025-04-07 01:17:07,224 - __main__ - INFO - Successfully imported backtesting framework
+2025-04-07 01:17:07,225 - __main__ - INFO - Successfully imported data management
+2025-04-07 01:17:07,225 - __main__ - INFO - === Testing Data Fetcher ===
+2025-04-07 01:17:07,225 - __main__ - INFO - Testing data fetcher...
+2025-04-07 01:17:07,225 - __main__ - INFO - Loading config from: /home/vijji/advanced_fld_cycles/fib_cycles_system/config/config.json
+2025-04-07 01:17:07,983 - tvDatafeed.main - ERROR - error while signin
+2025-04-07 01:17:07,983 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-04-07 01:17:07,983 - data_management - INFO - TradingView data source initialized
+2025-04-07 01:17:07,983 - data_management - INFO - Yahoo Finance data source initialized
+2025-04-07 01:17:07,992 - __main__ - INFO - Attempting to fetch AAPL on NYSE with daily interval...
+2025-04-07 01:17:07,993 - data_management - INFO - Fetching 500 bars of AAPL data from TradingView...
+2025-04-07 01:17:13,240 - tvDatafeed.main - ERROR - The read operation timed out
+2025-04-07 01:17:13,241 - tvDatafeed.main - ERROR - no data, please check the exchange and symbol
+2025-04-07 01:17:13,241 - data_management - ERROR - Error fetching from TradingView: object of type 'NoneType' has no len()
+2025-04-07 01:17:13,241 - data_management - WARNING - Fetch failed for AAPL, trying mock data generator
+2025-04-07 01:17:13,244 - data_management - INFO - Using mock data for AAPL (daily)
+2025-04-07 01:17:13,280 - data_management - INFO - Cached 501 rows for AAPL
+2025-04-07 01:17:13,281 - data_management - INFO - Using price source: close
+2025-04-07 01:17:13,281 - __main__ - INFO - Successfully fetched 501 rows for AAPL
+2025-04-07 01:17:13,281 - __main__ - INFO - Date range: 2023-11-24 01:17:13.241556 to 2025-04-07 01:17:13.241556
+2025-04-07 01:17:13,281 - __main__ - INFO - Columns: ['open', 'high', 'low', 'close', 'volume', 'hlc3', 'ohlc4', 'hl2', 'price']
+2025-04-07 01:17:13,440 - __main__ - INFO - Saved price chart to AAPL_daily_test.png
+2025-04-07 01:17:13,440 - __main__ - INFO - Attempting to fetch MSFT on NYSE with daily interval...
+2025-04-07 01:17:13,441 - data_management - INFO - Fetching 500 bars of MSFT data from TradingView...
+2025-04-07 01:17:18,665 - tvDatafeed.main - ERROR - The read operation timed out
+2025-04-07 01:17:18,665 - tvDatafeed.main - ERROR - no data, please check the exchange and symbol
+2025-04-07 01:17:18,665 - data_management - ERROR - Error fetching from TradingView: object of type 'NoneType' has no len()
+2025-04-07 01:17:18,665 - data_management - WARNING - Fetch failed for MSFT, trying mock data generator
+2025-04-07 01:17:18,668 - data_management - INFO - Using mock data for MSFT (daily)
+2025-04-07 01:17:18,704 - data_management - INFO - Cached 501 rows for MSFT
+2025-04-07 01:17:18,705 - data_management - INFO - Using price source: close
+2025-04-07 01:17:18,705 - __main__ - INFO - Successfully fetched 501 rows for MSFT
+2025-04-07 01:17:18,705 - __main__ - INFO - Date range: 2023-11-24 01:17:18.665985 to 2025-04-07 01:17:18.665985
+2025-04-07 01:17:18,705 - __main__ - INFO - Columns: ['open', 'high', 'low', 'close', 'volume', 'hlc3', 'ohlc4', 'hl2', 'price']
+2025-04-07 01:17:18,845 - __main__ - INFO - Saved price chart to MSFT_daily_test.png
+2025-04-07 01:17:18,845 - __main__ - INFO - Attempting to fetch NIFTY on NSE with daily interval...
+2025-04-07 01:17:18,858 - data_management - INFO - Retrieved 1000 rows from cache for NIFTY
+2025-04-07 01:17:18,858 - data_management - INFO - Using cached data for NIFTY (daily)
+2025-04-07 01:17:18,858 - __main__ - INFO - Successfully fetched 1000 rows for NIFTY
+2025-04-07 01:17:18,858 - __main__ - INFO - Date range: 2021-03-25 03:45:00 to 2025-04-04 03:45:00
+2025-04-07 01:17:18,858 - __main__ - INFO - Columns: ['open', 'high', 'low', 'close', 'volume']
+2025-04-07 01:17:19,016 - __main__ - INFO - Saved price chart to NIFTY_daily_test.png
+2025-04-07 01:17:19,016 - __main__ - INFO - Attempting to fetch RELIANCE on NSE with daily interval...
+2025-04-07 01:17:19,026 - data_management - INFO - Retrieved 1000 rows from cache for RELIANCE
+2025-04-07 01:17:19,026 - data_management - INFO - Using cached data for RELIANCE (daily)
+2025-04-07 01:17:19,026 - __main__ - INFO - Successfully fetched 1000 rows for RELIANCE
+2025-04-07 01:17:19,026 - __main__ - INFO - Date range: 2021-03-25 03:45:00 to 2025-04-04 03:45:00
+2025-04-07 01:17:19,026 - __main__ - INFO - Columns: ['open', 'high', 'low', 'close', 'volume']
+2025-04-07 01:17:19,193 - __main__ - INFO - Saved price chart to RELIANCE_daily_test.png
+2025-04-07 01:17:19,194 - __main__ - INFO - === Running Simple Backtest ===
+2025-04-07 01:17:19,194 - __main__ - INFO - Loading configuration...
+2025-04-07 01:17:19,194 - __main__ - INFO - Loading config from: /home/vijji/advanced_fld_cycles/fib_cycles_system/config/config.json
+2025-04-07 01:17:19,194 - __main__ - INFO - Creating data fetcher and backtest engine...
+2025-04-07 01:17:19,494 - tvDatafeed.main - ERROR - error while signin
+2025-04-07 01:17:19,495 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-04-07 01:17:19,495 - data_management - INFO - TradingView data source initialized
+2025-04-07 01:17:19,495 - data_management - INFO - Yahoo Finance data source initialized
+2025-04-07 01:17:19,791 - tvDatafeed.main - ERROR - error while signin
+2025-04-07 01:17:19,791 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-04-07 01:17:19,791 - data.data_management - INFO - TradingView data source initialized
+2025-04-07 01:17:19,791 - data.data_management - INFO - Yahoo Finance data source initialized
+2025-04-07 01:17:19,792 - __main__ - INFO - Running backtest for AAPL on daily timeframe...
+2025-04-07 01:17:19,792 - backtesting_framework - INFO - Starting backtest for AAPL on daily timeframe
+2025-04-07 01:17:19,796 - data_management - INFO - Retrieved 501 rows from cache for AAPL
+2025-04-07 01:17:19,796 - data_management - INFO - Using cached data for AAPL (daily)
+2025-04-07 01:17:19,797 - backtesting_framework - INFO - Fetched 365 bars of historical data
+2025-04-07 01:17:19,797 - backtesting_framework - ERROR - Error in backtest: index 500 is out of bounds for axis 0 with size 365
+Traceback (most recent call last):
+  File "/home/vijji/advanced_fld_cycles/fib_cycles_system/backtesting/backtesting_framework.py", line 343, in run_backtest
+    'start_date': data.index[params.lookback],
+  File "/home/vijji/miniconda3/envs/fib_cycles/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 5389, in __getitem__
+    return getitem(key)
+  File "/home/vijji/miniconda3/envs/fib_cycles/lib/python3.9/site-packages/pandas/core/arrays/datetimelike.py", line 381, in __getitem__
+    result = cast("Union[Self, DTScalarOrNaT]", super().__getitem__(key))
+  File "/home/vijji/miniconda3/envs/fib_cycles/lib/python3.9/site-packages/pandas/core/arrays/_mixins.py", line 284, in __getitem__
+    result = self._ndarray[key]
+IndexError: index 500 is out of bounds for axis 0 with size 365
+2025-04-07 01:17:19,807 - __main__ - ERROR - Error running backtest: index 500 is out of bounds for axis 0 with size 365
+Traceback (most recent call last):
+  File "/home/vijji/advanced_fld_cycles/fib_cycles_system/test_backtest.py", line 116, in run_simple_backtest
+    results = engine.run_backtest(params)
+  File "/home/vijji/advanced_fld_cycles/fib_cycles_system/backtesting/backtesting_framework.py", line 343, in run_backtest
+    'start_date': data.index[params.lookback],
+  File "/home/vijji/miniconda3/envs/fib_cycles/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 5389, in __getitem__
+    return getitem(key)
+  File "/home/vijji/miniconda3/envs/fib_cycles/lib/python3.9/site-packages/pandas/core/arrays/datetimelike.py", line 381, in __getitem__
+    result = cast("Union[Self, DTScalarOrNaT]", super().__getitem__(key))
+  File "/home/vijji/miniconda3/envs/fib_cycles/lib/python3.9/site-packages/pandas/core/arrays/_mixins.py", line 284, in __getitem__
+    result = self._ndarray[key]
+IndexError: index 500 is out of bounds for axis 0 with size 365
+2025-04-07 01:17:19,808 - __main__ - ERROR - Backtest failed: index 500 is out of bounds for axis 0 with size 365

@@ -1,0 +1,2 @@
+2025-04-07 03:10:27,658 - [INFO] - session.run_dashboard - Starting application in dashboard mode
+2025-04-07 03:10:27,658 - [INFO] - session.run_dashboard - Arguments: Namespace(mode='dashboard', port=8050, host='127.0.0.1', symbols=None, exchange='NSE', interval='daily', debug=True, clean=False, kill=True, config=None, data_source='auto')

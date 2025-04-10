@@ -1,0 +1,57 @@
+graph TD
+      %% Main Components
+      User([User]) --> Dashboard[Main Dashboard]
+      Dashboard --> TabNav[Tab Navigation System]
+      %% Core Analysis Components
+      Scanner[Core Scanner System] --> CycleDetection[Cycle Detection]
+      Scanner --> FLDSignal[FLD Signal Generator]
+      Scanner --> MarketRegime[Market Regime Detector]
+      %% Data Management
+      DataManager[Data Management] --> DataFetcher[Data Fetcher]
+      DataManager --> DataRefresher[Data Refresher]
+      DataCache[(Data Cache)] <--> DataFetcher
+      DataFetcher --> ExternalData[External Data Sources]
+      %% Results Storage
+      ResultsRepo[(Results Repository)] <--> Scanner
+      %% Dashboard Tabs & Components
+      TabNav --> AnalysisTab[Analysis Results Tab]
+      TabNav --> CycleTab[Cycle Visualization Tab]
+      TabNav --> FLDTab[FLD Analysis Tab]
+      TabNav --> ScannerTab[Scanner Dashboard Tab]
+      TabNav --> BatchTab[Batch Results Tab]
+      TabNav --> AdvancedTab[Advanced Strategies Tab]
+      TabNav --> BatchAdvancedTab[Batch Advanced Signals Tab]
+      %% Key UI Components
+      ScannerTab --> ScannerDashboard[Scanner Dashboard Component]
+      ScannerDashboard --> ScanResults[Scan Results]
+      BatchTab --> BatchResults[Batch Results Component]
+      BatchResults --> BatchScanResults[Batch Scan Results]
+      AdvancedTab --> AdvancedStrategies[Advanced Strategies Component]
+      AdvancedStrategies --> StrategySignals[Strategy Signals]
+      BatchAdvancedTab --> BatchAdvancedSignals[Batch Advanced Signals Component]
+      BatchAdvancedSignals --> BatchStrategySignals[Batch Strategy Signals]
+      %% Data Flow
+      User -- 1. Initiates Batch Scan --> BatchScan[Batch Scan Process]
+      BatchScan -- 2. Fetch Data --> DataManager
+      BatchScan -- 3. Analyze Data --> Scanner
+      Scanner -- 4. Store Results --> ResultsRepo
+      ResultsRepo -- 5. Provide Results --> BatchResults
+      ResultsRepo -- 6. Provide Results --> BatchAdvancedSignals
+      %% Problem Areas
+      TabNav -- Tab Switch --> StateLoss{State Loss on Tab Switch}
+      StateLoss -- Recreates --> BatchAdvancedSignals
+      BatchAdvancedSignals -- Attempts to use --> DataRefresher
+      %% Critical Issues
+      subgraph "Critical Issue Areas"
+          StateLoss
+          DataRefresher -- "Refreshes with new data" --> PriceInconsistency[Price Inconsistency]
+          BatchAdvancedSignals -- "Uses" --> InconsistentDataSources[Inconsistent Data Sources]
+          DataRefresher -. "Should be disabled completely" .-> DataRefresher
+      end
+      %% Snapshot Mechanism (not working correctly)
+      SnapshotMechanism[Snapshot Mechanism] -. "Not preserving data" .-> BatchAdvancedSignals
+      %% Data Flow Between Components
+      ScanResults -- "Original Data" --> BatchResults
+      BatchResults -- "Should use same data" --> BatchAdvancedSignals
+      %% Cross-Tab Communication
+      CrossTabState[Cross-Tab State Management] -. "Missing or broken" .-> TabNav

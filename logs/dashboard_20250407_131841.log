@@ -1,0 +1,24 @@
+2025-04-07 13:18:42,215 - main_dashboard - INFO - Loaded visualization modules: cycle_visualization, fld_visualization, harmonic_visualization, scanner_dashboard, trading_strategies_ui
+2025-04-07 13:18:42,215 - start_simple - INFO - Successfully imported main_dashboard module
+2025-04-07 13:18:42,511 - tvDatafeed.main - ERROR - error while signin
+2025-04-07 13:18:42,512 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-04-07 13:18:42,512 - data.data_management - INFO - TradingView data source initialized with login
+2025-04-07 13:18:42,512 - data.data_management - INFO - Yahoo Finance data source initialized
+2025-04-07 13:18:42,522 - main_dashboard - INFO - Registering backtesting callbacks
+2025-04-07 13:18:52,862 - web.backtest_ui - INFO - Processing stored backtest results: ['error']
+2025-04-07 13:18:52,863 - web.backtest_ui - ERROR - Backtest error from store: __init__() got an unexpected keyword argument 'strategy_type'
+2025-04-07 13:18:54,369 - web.backtest_ui - INFO - Processing stored backtest results: ['results_ready', 'symbol', 'exchange', 'interval', 'start_date', 'end_date', 'placeholder']
+2025-04-07 13:18:54,370 - web.backtest_ui - INFO - Using placeholder backtest results UI
+2025-04-07 13:18:54,370 - web.backtest_ui - INFO - Backtest results received: placeholder=True, symbol=NIFTY
+2025-04-07 13:18:54,370 - web.backtest_ui - INFO - Result keys: ['results_ready', 'symbol', 'exchange', 'interval', 'start_date', 'end_date', 'placeholder']
+2025-04-07 13:18:54,960 - main_dashboard - INFO - Scanning NIFTY with ScanParameters(symbol='NIFTY', exchange='NSE', interval='daily', lookback=1000, num_cycles=3, price_source='close', generate_chart=True, custom_data=None)
+2025-04-07 13:18:54,961 - core.scanner_system - INFO - Analyzing NIFTY on NSE with daily interval
+2025-04-07 13:18:54,974 - data.data_management - INFO - Retrieved 1000 rows from cache for NIFTY
+2025-04-07 13:18:54,975 - data.data_management - INFO - Using cached data for NIFTY (daily)
+2025-04-07 13:18:54,975 - core.scanner_system - INFO - Successfully fetched 1000 bars of NIFTY data
+2025-04-07 13:18:54,980 - core.scanner_system - INFO - Detected cycles for NIFTY: [55, 34, 21]
+2025-04-07 13:18:55,223 - core.scanner_system - INFO - Analysis completed for NIFTY with signal neutral in 0.26 seconds
+2025-04-07 13:18:55,224 - storage.results_repository - INFO - Found existing result for NIFTY/daily: /home/vijji/fib_cycles_system_april7/storage/results/json/NIFTY_daily_20250407_025141.json
+2025-04-07 13:18:55,224 - storage.results_repository - INFO - Using existing result for NIFTY/daily: /home/vijji/fib_cycles_system_april7/storage/results/json/NIFTY_daily_20250407_025141.json
+2025-04-07 13:18:56,122 - web.backtest_ui - INFO - Processing stored backtest results: ['error']
+2025-04-07 13:18:56,123 - web.backtest_ui - ERROR - Backtest error from store: __init__() got an unexpected keyword argument 'strategy_type'

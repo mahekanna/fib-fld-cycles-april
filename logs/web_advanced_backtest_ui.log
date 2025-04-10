@@ -1,0 +1,275 @@
+2025-04-07 13:59:16,229 - [INFO] - web.advanced_backtest_ui - Running advanced backtest for NIFTY on NSE [daily]
+2025-04-07 13:59:16,906 - [INFO] - web.advanced_backtest_ui - Backtest completed for NIFTY with 0 trades
+2025-04-07 13:59:16,926 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 13:59:53,125 - [INFO] - web.advanced_backtest_ui - Running advanced backtest for NIFTY on NSE [daily]
+2025-04-07 13:59:53,791 - [INFO] - web.advanced_backtest_ui - Backtest completed for NIFTY with 0 trades
+2025-04-07 13:59:53,808 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:45:38,761 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:47:26,052 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:47:37,869 - [INFO] - web.advanced_backtest_ui - Running advanced backtest for NIFTY on NSE [daily]
+2025-04-07 14:47:38,557 - [INFO] - web.advanced_backtest_ui - Using lookback of 375 days for backtest
+2025-04-07 14:47:38,562 - [INFO] - web.advanced_backtest_ui - Successfully retrieved 1000 bars of data for NIFTY
+2025-04-07 14:47:38,608 - [INFO] - web.advanced_backtest_ui - Backtest completed for NIFTY with 0 trades
+2025-04-07 14:47:38,633 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:50:01,394 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:50:01,619 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:50:01,903 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:50:01,928 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:50:35,768 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:50:35,940 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:50:36,135 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:50:36,160 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:53:48,890 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:53:49,053 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:53:49,085 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:53:49,085 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:53:49,085 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 14:53:49,086 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 14:53:49,086 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 14:53:49,265 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:53:49,289 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:53:49,321 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:53:49,321 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:53:49,322 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 14:53:49,322 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 14:53:49,322 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 14:58:55,613 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:58:55,804 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:58:55,846 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:58:55,847 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:58:55,847 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 14:58:55,847 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 14:58:55,847 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 14:58:55,993 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:58:56,023 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:58:56,059 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:58:56,060 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:58:56,060 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 14:58:56,060 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 14:58:56,060 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 14:59:41,248 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:59:41,276 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:59:41,310 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:41,311 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:41,311 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 14:59:41,311 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 14:59:41,311 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 14:59:41,452 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:59:41,477 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:59:41,508 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:41,509 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:41,509 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 14:59:41,509 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 14:59:41,509 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 14:59:44,799 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:59:44,826 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:59:44,857 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:44,858 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:44,858 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 14:59:44,858 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 14:59:44,858 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 14:59:45,104 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:59:45,130 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:59:45,162 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:45,162 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:45,163 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 14:59:45,163 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 14:59:45,163 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 14:59:53,295 - [INFO] - web.advanced_backtest_ui - Running advanced backtest for NIFTY on NSE [daily]
+2025-04-07 14:59:53,898 - [INFO] - web.advanced_backtest_ui - Using lookback of 375 days for backtest
+2025-04-07 14:59:53,903 - [INFO] - web.advanced_backtest_ui - Successfully retrieved 1000 bars of data for NIFTY
+2025-04-07 14:59:53,930 - [INFO] - web.advanced_backtest_ui - Backtest completed for NIFTY with 0 trades
+2025-04-07 14:59:53,952 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 14:59:53,977 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 14:59:54,010 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:54,010 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 14:59:54,011 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 14:59:54,011 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 14:59:54,011 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:00:51,246 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:00:51,425 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:00:51,462 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:00:51,462 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:00:51,463 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:00:51,463 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:00:51,463 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:00:51,590 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:00:51,619 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:00:51,652 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:00:51,653 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:00:51,653 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:00:51,653 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:00:51,653 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:01:02,245 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:01:02,416 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:01:02,454 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:02,455 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:02,456 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:01:02,456 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:01:02,456 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:01:02,584 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:01:02,615 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:01:02,646 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:02,646 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:02,646 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:01:02,646 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:01:02,646 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:01:28,684 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:01:28,842 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:01:28,876 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:28,877 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:28,877 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:01:28,877 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:01:28,877 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:01:28,995 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:01:29,025 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:01:29,055 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:29,056 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:29,056 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:01:29,056 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:01:29,056 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:01:38,584 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:01:38,614 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:01:38,662 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:38,662 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:38,662 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:01:38,663 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:01:38,663 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:01:38,899 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:01:38,985 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:01:39,023 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:39,023 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:01:39,024 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:01:39,024 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:01:39,024 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:02:42,350 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:02:42,514 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:02:42,550 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:02:42,551 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:02:42,551 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:02:42,552 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:02:42,552 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:02:54,099 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:02:54,254 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:02:54,288 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:02:54,289 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:02:54,289 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:02:54,289 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:02:54,289 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:03:02,810 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:03:02,958 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:03:02,993 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:03:02,994 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:03:02,994 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:03:02,994 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:03:02,994 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:03:27,173 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:03:27,340 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:03:27,376 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:03:27,377 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:03:27,377 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:03:27,377 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:03:27,377 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:05:07,362 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:05:07,537 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:05:07,571 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:05:07,572 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:05:07,572 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:05:07,572 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:05:07,572 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:05:15,634 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:05:15,660 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:05:15,691 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:05:15,692 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:05:15,692 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:05:15,692 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:05:15,692 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:05:40,420 - [INFO] - web.advanced_backtest_ui - Running advanced backtest for NIFTY on NSE [daily]
+2025-04-07 15:05:41,014 - [INFO] - web.advanced_backtest_ui - Using lookback of 375 days for backtest
+2025-04-07 15:05:41,019 - [INFO] - web.advanced_backtest_ui - Successfully retrieved 1000 bars of data for NIFTY
+2025-04-07 15:05:41,043 - [INFO] - web.advanced_backtest_ui - Backtest completed for NIFTY with 0 trades
+2025-04-07 15:05:41,067 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:05:41,091 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:05:41,122 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:05:41,123 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:05:41,123 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:05:41,124 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:05:41,124 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:06:57,589 - [INFO] - web.advanced_backtest_ui - Running advanced backtest for NIFTY on NSE [daily]
+2025-04-07 15:06:58,175 - [INFO] - web.advanced_backtest_ui - Using lookback of 375 days for backtest
+2025-04-07 15:06:58,181 - [INFO] - web.advanced_backtest_ui - Successfully retrieved 1000 bars of data for NIFTY
+2025-04-07 15:06:58,206 - [INFO] - web.advanced_backtest_ui - Backtest completed for NIFTY with 0 trades
+2025-04-07 15:06:58,231 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:06:58,257 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:06:58,288 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:06:58,289 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:06:58,289 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:06:58,289 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:06:58,289 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:11:26,355 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:11:26,531 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:11:26,563 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:11:26,564 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:11:26,564 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:11:26,564 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:11:26,564 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:11:33,012 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:11:33,164 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:11:33,198 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:11:33,199 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:11:33,199 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:11:33,199 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:11:33,199 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:12:23,242 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:12:23,422 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:12:23,476 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:12:23,478 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:12:23,478 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:12:23,479 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:12:23,480 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:13:15,839 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:13:15,995 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:13:16,033 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:13:16,034 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:13:16,034 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:13:16,034 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:13:16,034 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:13:23,633 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:13:23,657 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:13:23,698 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:13:23,699 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:13:23,699 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:13:23,699 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:13:23,699 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:13:30,428 - [INFO] - web.advanced_backtest_ui - Running advanced backtest for NIFTY on NSE [daily]
+2025-04-07 15:13:31,037 - [INFO] - web.advanced_backtest_ui - Using lookback of 375 days for backtest
+2025-04-07 15:13:31,042 - [INFO] - web.advanced_backtest_ui - Successfully retrieved 1000 bars of data for NIFTY
+2025-04-07 15:13:31,070 - [INFO] - web.advanced_backtest_ui - Backtest completed for NIFTY with 0 trades
+2025-04-07 15:13:31,090 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:13:31,122 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:13:31,153 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:13:31,153 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:13:31,153 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:13:31,153 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:13:31,153 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:30:08,692 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:30:08,876 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:30:08,911 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:30:08,912 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:30:08,912 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:30:08,912 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:30:08,912 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:31:23,388 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:31:23,543 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:31:23,580 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:31:23,581 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:31:23,581 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:31:23,581 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:31:23,581 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.
+2025-04-07 15:35:57,566 - [INFO] - web.advanced_backtest_ui - Updating UI with backtest results containing 0 trades
+2025-04-07 15:35:57,735 - [WARNING] - web.advanced_backtest_ui - Zero opening equity detected for 2025-4. Skipping monthly return calculation.
+2025-04-07 15:35:57,772 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:35:57,773 - [WARNING] - web.advanced_backtest_ui - Number of days must be positive, got 0. CAGR defaulting to 0.0.
+2025-04-07 15:35:57,773 - [DEBUG] - web.advanced_backtest_ui - Max drawdown is zero or negative. Recovery factor defaulting to 0.0.
+2025-04-07 15:35:57,773 - [DEBUG] - web.advanced_backtest_ui - No trades provided for expectancy calculation
+2025-04-07 15:35:57,773 - [DEBUG] - web.advanced_backtest_ui - Not enough trades to calculate SQN. Need at least 2 trades.

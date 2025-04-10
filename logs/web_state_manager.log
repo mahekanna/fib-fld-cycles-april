@@ -1,0 +1,517 @@
+2025-04-09 17:37:32,384 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:37:48,963 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:37:50,046 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:40:13,392 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:40:14,483 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:41:10,169 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250409_174110 with 9 symbols
+2025-04-09 17:41:15,895 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-09 17:41:15,895 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-09 17:41:15,895 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-09 17:41:15,895 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-09 17:41:15,895 - [WARNING] - web.state_manager - ❌ Symbol TATAMOTORS scan failed: No data fetched
+2025-04-09 17:41:15,895 - [INFO] - web.state_manager - ✅ Symbol SBIN scan completed successfully
+2025-04-09 17:41:15,895 - [INFO] - web.state_manager - ✅ Symbol ICICIBANK scan completed successfully
+2025-04-09 17:41:15,895 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-09 17:41:15,895 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-09 17:41:15,895 - [INFO] - web.state_manager - 🏁 Scan scan_20250409_174110 completed. Success: 8, Failed: 1
+2025-04-09 17:41:21,886 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-09 17:41:21,887 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-09 17:41:21,889 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-09 17:41:21,890 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-09 17:41:21,891 - [INFO] - web.state_manager - 📸 Created snapshot for SBIN @ price 742.2
+2025-04-09 17:41:21,893 - [INFO] - web.state_manager - 📸 Created snapshot for ICICIBANK @ price 1300.8
+2025-04-09 17:41:21,894 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-09 17:41:21,895 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-09 17:41:21,895 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250409_174121 with 8 results
+2025-04-09 17:41:21,901 - [INFO] - web.state_manager - 💾 Persisted state with 8 snapshots
+2025-04-09 17:41:21,903 - [INFO] - web.state_manager - 🔍 Retrieved 8 snapshots for batch batch_20250409_174121
+2025-04-09 17:42:50,347 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:42:50,351 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 8 snapshots
+2025-04-09 17:42:51,356 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:42:51,361 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 8 snapshots
+2025-04-09 17:43:08,299 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250409_174308 with 9 symbols
+2025-04-09 17:43:28,136 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-09 17:43:28,137 - [WARNING] - web.state_manager - ❌ Symbol TATAMOTORS scan failed: No data fetched
+2025-04-09 17:43:28,137 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-09 17:43:28,137 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-09 17:43:28,137 - [INFO] - web.state_manager - ✅ Symbol ICICIBANK scan completed successfully
+2025-04-09 17:43:28,137 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-09 17:43:28,137 - [INFO] - web.state_manager - ✅ Symbol SBIN scan completed successfully
+2025-04-09 17:43:28,137 - [WARNING] - web.state_manager - ❌ Symbol NIFTY scan failed: No data fetched
+2025-04-09 17:43:28,137 - [WARNING] - web.state_manager - ❌ Symbol INFY scan failed: No data fetched
+2025-04-09 17:43:28,137 - [INFO] - web.state_manager - 🏁 Scan scan_20250409_174308 completed. Success: 6, Failed: 3
+2025-04-09 17:43:31,265 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1403.7
+2025-04-09 17:43:31,265 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-09 17:43:31,266 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-09 17:43:31,266 - [INFO] - web.state_manager - 📸 Created snapshot for ICICIBANK @ price 1300.8
+2025-04-09 17:43:31,267 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-09 17:43:31,267 - [INFO] - web.state_manager - 📸 Created snapshot for SBIN @ price 742.2
+2025-04-09 17:43:31,268 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250409_174331 with 6 results
+2025-04-09 17:43:31,278 - [INFO] - web.state_manager - 💾 Persisted state with 8 snapshots
+2025-04-09 17:43:31,280 - [INFO] - web.state_manager - 🔍 Retrieved 6 snapshots for batch batch_20250409_174331
+2025-04-09 17:44:58,350 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:44:58,356 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 8 snapshots
+2025-04-09 17:45:05,607 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:45:05,615 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 8 snapshots
+2025-04-09 17:45:06,838 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:45:06,846 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 8 snapshots
+2025-04-09 17:47:17,672 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:47:17,680 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 8 snapshots
+2025-04-09 17:47:18,772 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:47:18,778 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 8 snapshots
+2025-04-09 17:49:51,996 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:49:52,002 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 8 snapshots
+2025-04-09 17:49:52,951 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:49:52,958 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 8 snapshots
+2025-04-09 17:51:51,343 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250409_175151 with 9 symbols
+2025-04-09 17:51:55,802 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-09 17:51:55,803 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-09 17:51:55,803 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-09 17:51:55,803 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-09 17:51:55,803 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-09 17:51:55,803 - [INFO] - web.state_manager - ✅ Symbol TATAMOTORS scan completed successfully
+2025-04-09 17:51:55,803 - [INFO] - web.state_manager - ✅ Symbol ICICIBANK scan completed successfully
+2025-04-09 17:51:55,803 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-09 17:51:55,803 - [INFO] - web.state_manager - ✅ Symbol SBIN scan completed successfully
+2025-04-09 17:51:55,803 - [INFO] - web.state_manager - 🏁 Scan scan_20250409_175151 completed. Success: 9, Failed: 0
+2025-04-09 17:52:00,474 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-09 17:52:00,475 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-09 17:52:00,476 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-09 17:52:00,477 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-09 17:52:00,477 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-09 17:52:00,478 - [INFO] - web.state_manager - 📸 Created snapshot for TATAMOTORS @ price 582.9
+2025-04-09 17:52:00,478 - [INFO] - web.state_manager - 📸 Created snapshot for ICICIBANK @ price 1300.8
+2025-04-09 17:52:00,479 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-09 17:52:00,479 - [INFO] - web.state_manager - 📸 Created snapshot for SBIN @ price 742.2
+2025-04-09 17:52:00,479 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250409_175200 with 9 results
+2025-04-09 17:52:00,490 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-09 17:52:00,491 - [INFO] - web.state_manager - 🔍 Retrieved 9 snapshots for batch batch_20250409_175200
+2025-04-09 17:56:50,045 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:56:50,058 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 17:57:02,479 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:57:02,490 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 17:57:12,830 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:57:12,844 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 17:57:20,199 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:57:20,208 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 17:57:57,110 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:57:57,126 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 17:58:06,497 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:58:06,507 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 17:58:15,824 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:58:15,837 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 17:58:43,801 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:58:43,811 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 17:59:01,417 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:59:01,424 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 17:59:02,531 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 17:59:02,541 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:01:17,288 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:01:17,297 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:01:18,270 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:01:18,283 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:01:33,644 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250409_180133 with 9 symbols
+2025-04-09 18:01:38,056 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-09 18:01:38,057 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-09 18:01:38,059 - [WARNING] - web.state_manager - ❌ Symbol BANKNIFTY scan failed: No data fetched
+2025-04-09 18:01:38,061 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-09 18:01:38,062 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-09 18:01:38,063 - [INFO] - web.state_manager - ✅ Symbol TATAMOTORS scan completed successfully
+2025-04-09 18:01:38,065 - [WARNING] - web.state_manager - ❌ Symbol ICICIBANK scan failed: No data fetched
+2025-04-09 18:01:38,067 - [WARNING] - web.state_manager - ❌ Symbol HDFCBANK scan failed: No data fetched
+2025-04-09 18:01:38,069 - [WARNING] - web.state_manager - ❌ Symbol SBIN scan failed: No data fetched
+2025-04-09 18:01:38,070 - [INFO] - web.state_manager - 🏁 Scan scan_20250409_180133 completed. Success: 5, Failed: 4
+2025-04-09 18:01:41,338 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-09 18:01:41,343 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-09 18:01:41,345 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-09 18:01:41,349 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-09 18:01:41,352 - [INFO] - web.state_manager - 📸 Created snapshot for TATAMOTORS @ price 582.9
+2025-04-09 18:01:41,353 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250409_180141 with 5 results
+2025-04-09 18:01:41,382 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-09 18:01:41,385 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250409_180141
+2025-04-09 18:01:41,557 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250409_180141
+2025-04-09 18:01:54,639 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250409_180141
+2025-04-09 18:03:00,361 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250409_180141
+2025-04-09 18:05:19,205 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:05:19,216 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:05:29,564 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:05:29,574 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:05:44,944 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:05:44,954 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:05:46,045 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:05:46,060 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:34:05,281 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:34:05,297 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:34:06,319 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:34:06,334 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:34:26,245 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250409_183426 with 9 symbols
+2025-04-09 18:34:30,664 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-09 18:34:30,664 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-09 18:34:30,664 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-09 18:34:30,664 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-09 18:34:30,664 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-09 18:34:30,665 - [INFO] - web.state_manager - ✅ Symbol TATAMOTORS scan completed successfully
+2025-04-09 18:34:30,665 - [INFO] - web.state_manager - ✅ Symbol ICICIBANK scan completed successfully
+2025-04-09 18:34:30,665 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-09 18:34:30,665 - [INFO] - web.state_manager - ✅ Symbol SBIN scan completed successfully
+2025-04-09 18:34:30,665 - [INFO] - web.state_manager - 🏁 Scan scan_20250409_183426 completed. Success: 9, Failed: 0
+2025-04-09 18:34:35,275 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-09 18:34:35,277 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-09 18:34:35,277 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-09 18:34:35,278 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-09 18:34:35,279 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-09 18:34:35,280 - [INFO] - web.state_manager - 📸 Created snapshot for TATAMOTORS @ price 582.9
+2025-04-09 18:34:35,281 - [INFO] - web.state_manager - 📸 Created snapshot for ICICIBANK @ price 1300.8
+2025-04-09 18:34:35,282 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-09 18:34:35,283 - [INFO] - web.state_manager - 📸 Created snapshot for SBIN @ price 742.2
+2025-04-09 18:34:35,283 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250409_183435 with 9 results
+2025-04-09 18:34:35,306 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-09 18:34:35,308 - [INFO] - web.state_manager - 🔍 Retrieved 9 snapshots for batch batch_20250409_183435
+2025-04-09 18:34:35,539 - [INFO] - web.state_manager - 🔍 Retrieved 9 snapshots for batch batch_20250409_183435
+2025-04-09 18:35:22,826 - [INFO] - web.state_manager - 🔍 Retrieved 9 snapshots for batch batch_20250409_183435
+2025-04-09 18:38:09,299 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:38:09,314 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:38:51,389 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:38:51,403 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:39:11,032 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:39:11,047 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:39:53,535 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:39:53,552 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:40:02,924 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:40:02,952 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:40:10,278 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:40:10,294 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:40:30,767 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:40:30,784 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:40:46,271 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:40:46,286 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:43:41,037 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250409_184341 with 9 symbols
+2025-04-09 18:43:45,460 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-09 18:43:45,460 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-09 18:43:45,460 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-09 18:43:45,460 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-09 18:43:45,460 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-09 18:43:45,460 - [INFO] - web.state_manager - ✅ Symbol TATAMOTORS scan completed successfully
+2025-04-09 18:43:45,461 - [INFO] - web.state_manager - ✅ Symbol ICICIBANK scan completed successfully
+2025-04-09 18:43:45,461 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-09 18:43:45,461 - [INFO] - web.state_manager - ✅ Symbol SBIN scan completed successfully
+2025-04-09 18:43:45,461 - [INFO] - web.state_manager - 🏁 Scan scan_20250409_184341 completed. Success: 9, Failed: 0
+2025-04-09 18:43:49,938 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-09 18:43:49,940 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-09 18:43:49,941 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-09 18:43:49,942 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-09 18:43:49,943 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-09 18:43:49,944 - [INFO] - web.state_manager - 📸 Created snapshot for TATAMOTORS @ price 582.9
+2025-04-09 18:43:49,945 - [INFO] - web.state_manager - 📸 Created snapshot for ICICIBANK @ price 1300.8
+2025-04-09 18:43:49,946 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-09 18:43:49,948 - [INFO] - web.state_manager - 📸 Created snapshot for SBIN @ price 742.2
+2025-04-09 18:43:49,948 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250409_184349 with 9 results
+2025-04-09 18:43:49,973 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-09 18:43:49,974 - [INFO] - web.state_manager - 🔍 Retrieved 9 snapshots for batch batch_20250409_184349
+2025-04-09 18:43:50,227 - [INFO] - web.state_manager - 🔍 Retrieved 9 snapshots for batch batch_20250409_184349
+2025-04-09 18:49:57,522 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:49:57,541 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:49:58,497 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:49:58,514 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:50:20,491 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250409_185020 with 9 symbols
+2025-04-09 18:50:25,101 - [WARNING] - web.state_manager - ❌ Symbol RELIANCE scan failed: No data fetched
+2025-04-09 18:50:25,104 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-09 18:50:25,107 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-09 18:50:25,107 - [WARNING] - web.state_manager - ❌ Symbol TCS scan failed: No data fetched
+2025-04-09 18:50:25,111 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-09 18:50:25,112 - [WARNING] - web.state_manager - ❌ Symbol TATAMOTORS scan failed: No data fetched
+2025-04-09 18:50:25,113 - [WARNING] - web.state_manager - ❌ Symbol ICICIBANK scan failed: No data fetched
+2025-04-09 18:50:25,114 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-09 18:50:25,115 - [INFO] - web.state_manager - ✅ Symbol SBIN scan completed successfully
+2025-04-09 18:50:25,117 - [INFO] - web.state_manager - 🏁 Scan scan_20250409_185020 completed. Success: 5, Failed: 4
+2025-04-09 18:50:30,609 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-09 18:50:30,613 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-09 18:50:30,619 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-09 18:50:30,622 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-09 18:50:30,626 - [INFO] - web.state_manager - 📸 Created snapshot for SBIN @ price 742.2
+2025-04-09 18:50:30,628 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250409_185030 with 5 results
+2025-04-09 18:50:30,685 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-09 18:50:30,691 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250409_185030
+2025-04-09 18:50:30,867 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250409_185030
+2025-04-09 18:51:10,362 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250409_185030
+2025-04-09 18:58:05,184 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:58:05,203 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:58:15,523 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:58:15,542 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-09 18:58:23,843 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-09 18:58:23,862 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:15:13,894 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:15:13,919 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:15:14,991 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:15:15,014 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:15:24,920 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250410_001524 with 9 symbols
+2025-04-10 00:15:29,340 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-10 00:15:29,341 - [WARNING] - web.state_manager - ❌ Symbol TCS scan failed: No data fetched
+2025-04-10 00:15:29,342 - [WARNING] - web.state_manager - ❌ Symbol INFY scan failed: No data fetched
+2025-04-10 00:15:29,342 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-10 00:15:29,344 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-10 00:15:29,344 - [INFO] - web.state_manager - ✅ Symbol TATAMOTORS scan completed successfully
+2025-04-10 00:15:29,345 - [WARNING] - web.state_manager - ❌ Symbol ICICIBANK scan failed: No data fetched
+2025-04-10 00:15:29,347 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-10 00:15:29,348 - [WARNING] - web.state_manager - ❌ Symbol SBIN scan failed: No data fetched
+2025-04-10 00:15:29,349 - [INFO] - web.state_manager - 🏁 Scan scan_20250410_001524 completed. Success: 5, Failed: 4
+2025-04-10 00:15:33,051 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-10 00:15:33,060 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-10 00:15:33,067 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-10 00:15:33,075 - [INFO] - web.state_manager - 📸 Created snapshot for TATAMOTORS @ price 582.9
+2025-04-10 00:15:33,083 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-10 00:15:33,084 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250410_001533 with 5 results
+2025-04-10 00:15:33,158 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-10 00:15:33,164 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250410_001533
+2025-04-10 00:15:33,351 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250410_001533
+2025-04-10 00:18:57,061 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:18:57,086 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:21:12,501 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:21:12,522 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:21:20,839 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:21:20,862 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:21:28,176 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:21:28,195 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:21:34,518 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:21:34,544 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:21:43,935 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:21:43,955 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:22:22,372 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:22:22,393 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:22:23,353 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:22:23,376 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:22:37,069 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250410_002237 with 9 symbols
+2025-04-10 00:22:41,497 - [WARNING] - web.state_manager - ❌ Symbol TCS scan failed: No data fetched
+2025-04-10 00:22:41,499 - [WARNING] - web.state_manager - ❌ Symbol NIFTY scan failed: No data fetched
+2025-04-10 00:22:41,500 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-10 00:22:41,501 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-10 00:22:41,502 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-10 00:22:41,506 - [WARNING] - web.state_manager - ❌ Symbol TATAMOTORS scan failed: No data fetched
+2025-04-10 00:22:41,506 - [WARNING] - web.state_manager - ❌ Symbol ICICIBANK scan failed: No data fetched
+2025-04-10 00:22:41,509 - [WARNING] - web.state_manager - ❌ Symbol HDFCBANK scan failed: No data fetched
+2025-04-10 00:22:41,510 - [WARNING] - web.state_manager - ❌ Symbol SBIN scan failed: No data fetched
+2025-04-10 00:22:41,511 - [INFO] - web.state_manager - 🏁 Scan scan_20250410_002237 completed. Success: 3, Failed: 6
+2025-04-10 00:22:43,632 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-10 00:22:43,640 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-10 00:22:43,647 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-10 00:22:43,647 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250410_002243 with 3 results
+2025-04-10 00:22:43,752 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-10 00:22:43,769 - [INFO] - web.state_manager - 🔍 Retrieved 3 snapshots for batch batch_20250410_002243
+2025-04-10 00:22:43,912 - [INFO] - web.state_manager - 🔍 Retrieved 3 snapshots for batch batch_20250410_002243
+2025-04-10 00:22:52,524 - [INFO] - web.state_manager - 🔍 Retrieved 3 snapshots for batch batch_20250410_002243
+2025-04-10 00:23:17,338 - [INFO] - web.state_manager - 🔍 Retrieved 3 snapshots for batch batch_20250410_002243
+2025-04-10 00:33:20,945 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:33:20,969 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:33:28,250 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:33:28,269 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:33:37,634 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:33:37,658 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:33:45,939 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:33:45,960 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:33:54,260 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:33:54,281 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:34:51,535 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:34:51,556 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:37:20,145 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:37:20,166 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:37:21,075 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:37:21,097 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:37:34,641 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250410_003734 with 9 symbols
+2025-04-10 00:37:39,244 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-10 00:37:39,250 - [WARNING] - web.state_manager - ❌ Symbol BANKNIFTY scan failed: No data fetched
+2025-04-10 00:37:39,254 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-10 00:37:39,255 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-10 00:37:39,256 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-10 00:37:39,261 - [WARNING] - web.state_manager - ❌ Symbol TATAMOTORS scan failed: No data fetched
+2025-04-10 00:37:39,262 - [WARNING] - web.state_manager - ❌ Symbol ICICIBANK scan failed: No data fetched
+2025-04-10 00:37:39,264 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-10 00:37:39,269 - [INFO] - web.state_manager - ✅ Symbol SBIN scan completed successfully
+2025-04-10 00:37:39,270 - [INFO] - web.state_manager - 🏁 Scan scan_20250410_003734 completed. Success: 6, Failed: 3
+2025-04-10 00:37:43,282 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-10 00:37:43,288 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-10 00:37:43,294 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-10 00:37:43,299 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-10 00:37:43,304 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-10 00:37:43,308 - [INFO] - web.state_manager - 📸 Created snapshot for SBIN @ price 742.2
+2025-04-10 00:37:43,309 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250410_003743 with 6 results
+2025-04-10 00:37:43,374 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-10 00:37:43,378 - [INFO] - web.state_manager - 🔍 Retrieved 6 snapshots for batch batch_20250410_003743
+2025-04-10 00:37:43,567 - [INFO] - web.state_manager - 🔍 Retrieved 6 snapshots for batch batch_20250410_003743
+2025-04-10 00:37:48,675 - [INFO] - web.state_manager - 🔍 Retrieved 6 snapshots for batch batch_20250410_003743
+2025-04-10 00:46:54,882 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:46:54,909 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:47:05,230 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:47:05,259 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 00:47:17,734 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 00:47:17,761 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:08:15,194 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:08:15,231 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:08:16,251 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:08:16,280 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:08:54,131 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250410_010854 with 9 symbols
+2025-04-10 01:08:58,557 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-10 01:08:58,557 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-10 01:08:58,557 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-10 01:08:58,557 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-10 01:08:58,557 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-10 01:08:58,557 - [INFO] - web.state_manager - ✅ Symbol TATAMOTORS scan completed successfully
+2025-04-10 01:08:58,557 - [INFO] - web.state_manager - ✅ Symbol ICICIBANK scan completed successfully
+2025-04-10 01:08:58,557 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-10 01:08:58,557 - [INFO] - web.state_manager - ✅ Symbol SBIN scan completed successfully
+2025-04-10 01:08:58,558 - [INFO] - web.state_manager - 🏁 Scan scan_20250410_010854 completed. Success: 9, Failed: 0
+2025-04-10 01:09:08,258 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-10 01:09:08,273 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-10 01:09:08,283 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-10 01:09:08,298 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-10 01:09:08,307 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-10 01:09:08,313 - [INFO] - web.state_manager - 📸 Created snapshot for TATAMOTORS @ price 582.9
+2025-04-10 01:09:08,325 - [INFO] - web.state_manager - 📸 Created snapshot for ICICIBANK @ price 1300.8
+2025-04-10 01:09:08,332 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-10 01:09:08,340 - [INFO] - web.state_manager - 📸 Created snapshot for SBIN @ price 742.2
+2025-04-10 01:09:08,341 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250410_010908 with 9 results
+2025-04-10 01:09:08,424 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-10 01:09:08,431 - [INFO] - web.state_manager - 🔍 Retrieved 9 snapshots for batch batch_20250410_010908
+2025-04-10 01:09:08,688 - [INFO] - web.state_manager - 🔍 Retrieved 9 snapshots for batch batch_20250410_010908
+2025-04-10 01:10:10,168 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:10:10,197 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:10:22,631 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:10:22,658 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:12:25,614 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:12:25,642 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:13:05,708 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:13:05,735 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:13:45,542 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:13:45,573 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:46:24,903 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:46:24,943 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:46:25,966 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:46:25,998 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:46:37,287 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250410_014637 with 9 symbols
+2025-04-10 01:46:41,686 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-10 01:46:41,687 - [WARNING] - web.state_manager - ❌ Symbol NIFTY scan failed: No data fetched
+2025-04-10 01:46:41,688 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-10 01:46:41,689 - [WARNING] - web.state_manager - ❌ Symbol INFY scan failed: No data fetched
+2025-04-10 01:46:41,691 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-10 01:46:41,693 - [WARNING] - web.state_manager - ❌ Symbol TATAMOTORS scan failed: No data fetched
+2025-04-10 01:46:41,693 - [WARNING] - web.state_manager - ❌ Symbol ICICIBANK scan failed: No data fetched
+2025-04-10 01:46:41,694 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-10 01:46:41,695 - [WARNING] - web.state_manager - ❌ Symbol SBIN scan failed: No data fetched
+2025-04-10 01:46:41,696 - [INFO] - web.state_manager - 🏁 Scan scan_20250410_014637 completed. Success: 4, Failed: 5
+2025-04-10 01:46:45,339 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-10 01:46:45,345 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-10 01:46:45,352 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-10 01:46:45,357 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-10 01:46:45,358 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250410_014645 with 4 results
+2025-04-10 01:46:45,442 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-10 01:46:45,448 - [INFO] - web.state_manager - 🔍 Retrieved 4 snapshots for batch batch_20250410_014645
+2025-04-10 01:46:45,613 - [INFO] - web.state_manager - 🔍 Retrieved 4 snapshots for batch batch_20250410_014645
+2025-04-10 01:46:57,101 - [INFO] - web.state_manager - 🔍 Retrieved 4 snapshots for batch batch_20250410_014645
+2025-04-10 01:54:40,379 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:54:40,411 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:55:21,258 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:55:21,290 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:55:54,991 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:55:55,018 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:56:04,314 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:56:04,341 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:56:11,670 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:56:11,695 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:56:37,346 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:56:37,374 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:57:06,510 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:57:06,535 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:57:07,461 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 01:57:07,498 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 01:57:17,819 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250410_015717 with 9 symbols
+2025-04-10 01:57:22,217 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-10 01:57:22,218 - [WARNING] - web.state_manager - ❌ Symbol NIFTY scan failed: No data fetched
+2025-04-10 01:57:22,219 - [INFO] - web.state_manager - ✅ Symbol RELIANCE scan completed successfully
+2025-04-10 01:57:22,220 - [WARNING] - web.state_manager - ❌ Symbol INFY scan failed: No data fetched
+2025-04-10 01:57:22,222 - [WARNING] - web.state_manager - ❌ Symbol BANKNIFTY scan failed: No data fetched
+2025-04-10 01:57:22,223 - [WARNING] - web.state_manager - ❌ Symbol TATAMOTORS scan failed: No data fetched
+2025-04-10 01:57:22,225 - [INFO] - web.state_manager - ✅ Symbol ICICIBANK scan completed successfully
+2025-04-10 01:57:22,225 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-10 01:57:22,227 - [WARNING] - web.state_manager - ❌ Symbol SBIN scan failed: No data fetched
+2025-04-10 01:57:22,229 - [INFO] - web.state_manager - 🏁 Scan scan_20250410_015717 completed. Success: 4, Failed: 5
+2025-04-10 01:57:24,858 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-10 01:57:24,863 - [INFO] - web.state_manager - 📸 Created snapshot for RELIANCE @ price 1185.35
+2025-04-10 01:57:24,872 - [INFO] - web.state_manager - 📸 Created snapshot for ICICIBANK @ price 1300.8
+2025-04-10 01:57:24,878 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-10 01:57:24,880 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250410_015724 with 4 results
+2025-04-10 01:57:24,973 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-10 01:57:24,980 - [INFO] - web.state_manager - 🔍 Retrieved 4 snapshots for batch batch_20250410_015724
+2025-04-10 01:57:25,131 - [INFO] - web.state_manager - 🔍 Retrieved 4 snapshots for batch batch_20250410_015724
+2025-04-10 02:03:28,937 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:03:28,973 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:03:38,268 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:03:38,294 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:04:15,194 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:04:15,225 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:04:22,636 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:04:22,663 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:04:29,926 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:04:29,953 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:04:37,380 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:04:37,409 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:18:37,786 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:18:37,828 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:18:38,802 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:18:38,839 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:18:58,730 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250410_021858 with 9 symbols
+2025-04-10 02:19:03,212 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-10 02:19:03,212 - [WARNING] - web.state_manager - ❌ Symbol BANKNIFTY scan failed: No data fetched
+2025-04-10 02:19:03,212 - [WARNING] - web.state_manager - ❌ Symbol INFY scan failed: No data fetched
+2025-04-10 02:19:03,212 - [WARNING] - web.state_manager - ❌ Symbol RELIANCE scan failed: No data fetched
+2025-04-10 02:19:03,212 - [WARNING] - web.state_manager - ❌ Symbol TCS scan failed: No data fetched
+2025-04-10 02:19:03,212 - [INFO] - web.state_manager - ✅ Symbol TATAMOTORS scan completed successfully
+2025-04-10 02:19:03,212 - [INFO] - web.state_manager - ✅ Symbol ICICIBANK scan completed successfully
+2025-04-10 02:19:03,212 - [INFO] - web.state_manager - ✅ Symbol HDFCBANK scan completed successfully
+2025-04-10 02:19:03,212 - [INFO] - web.state_manager - ✅ Symbol SBIN scan completed successfully
+2025-04-10 02:19:03,212 - [INFO] - web.state_manager - 🏁 Scan scan_20250410_021858 completed. Success: 5, Failed: 4
+2025-04-10 02:19:05,614 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-10 02:19:05,615 - [INFO] - web.state_manager - 📸 Created snapshot for TATAMOTORS @ price 582.9
+2025-04-10 02:19:05,615 - [INFO] - web.state_manager - 📸 Created snapshot for ICICIBANK @ price 1300.8
+2025-04-10 02:19:05,616 - [INFO] - web.state_manager - 📸 Created snapshot for HDFCBANK @ price 1765.0
+2025-04-10 02:19:05,617 - [INFO] - web.state_manager - 📸 Created snapshot for SBIN @ price 742.2
+2025-04-10 02:19:05,617 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250410_021905 with 5 results
+2025-04-10 02:19:05,656 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-10 02:19:05,657 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250410_021905
+2025-04-10 02:19:05,791 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250410_021905
+2025-04-10 02:19:11,387 - [INFO] - web.state_manager - 🔍 Retrieved 5 snapshots for batch batch_20250410_021905
+2025-04-10 02:27:38,075 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:27:38,111 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:27:48,489 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:27:48,520 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:27:57,898 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:27:57,927 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:29:18,576 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:29:18,613 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:29:30,005 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:29:30,034 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:29:40,402 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:29:40,437 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:29:51,747 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:29:51,778 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:30:36,818 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:30:36,848 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:30:37,835 - [INFO] - web.state_manager - 🔐 State Manager initialized in strict consistency mode
+2025-04-10 02:30:37,874 - [INFO] - web.state_manager - 🔄 Loaded persisted state with 9 snapshots
+2025-04-10 02:30:46,864 - [INFO] - web.state_manager - 🔄 Initialized incremental scan scan_20250410_023046 with 9 symbols
+2025-04-10 02:30:51,276 - [WARNING] - web.state_manager - ❌ Symbol RELIANCE scan failed: No data fetched
+2025-04-10 02:30:51,277 - [INFO] - web.state_manager - ✅ Symbol BANKNIFTY scan completed successfully
+2025-04-10 02:30:51,279 - [INFO] - web.state_manager - ✅ Symbol NIFTY scan completed successfully
+2025-04-10 02:30:51,280 - [INFO] - web.state_manager - ✅ Symbol INFY scan completed successfully
+2025-04-10 02:30:51,281 - [INFO] - web.state_manager - ✅ Symbol TCS scan completed successfully
+2025-04-10 02:30:51,282 - [WARNING] - web.state_manager - ❌ Symbol TATAMOTORS scan failed: No data fetched
+2025-04-10 02:30:51,282 - [WARNING] - web.state_manager - ❌ Symbol ICICIBANK scan failed: No data fetched
+2025-04-10 02:30:51,282 - [WARNING] - web.state_manager - ❌ Symbol HDFCBANK scan failed: No data fetched
+2025-04-10 02:30:51,284 - [WARNING] - web.state_manager - ❌ Symbol SBIN scan failed: No data fetched
+2025-04-10 02:30:51,285 - [INFO] - web.state_manager - 🏁 Scan scan_20250410_023046 completed. Success: 4, Failed: 5
+2025-04-10 02:30:54,417 - [INFO] - web.state_manager - 📸 Created snapshot for BANKNIFTY @ price 50240.15
+2025-04-10 02:30:54,419 - [INFO] - web.state_manager - 📸 Created snapshot for NIFTY @ price 22399.15
+2025-04-10 02:30:54,422 - [INFO] - web.state_manager - 📸 Created snapshot for INFY @ price 1403.7
+2025-04-10 02:30:54,426 - [INFO] - web.state_manager - 📸 Created snapshot for TCS @ price 3246.6
+2025-04-10 02:30:54,428 - [WARNING] - web.state_manager - 🔒 Registered batch batch_20250410_023054 with 4 results
+2025-04-10 02:30:54,506 - [INFO] - web.state_manager - 💾 Persisted state with 9 snapshots
+2025-04-10 02:30:54,512 - [INFO] - web.state_manager - 🔍 Retrieved 4 snapshots for batch batch_20250410_023054
+2025-04-10 02:30:54,656 - [INFO] - web.state_manager - 🔍 Retrieved 4 snapshots for batch batch_20250410_023054

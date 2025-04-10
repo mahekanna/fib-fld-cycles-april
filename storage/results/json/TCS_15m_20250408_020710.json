@@ -1,0 +1,160 @@
+{
+    "symbol": "TCS",
+    "exchange": "NSE",
+    "interval": "15m",
+    "timestamp": "2025-04-08T02:07:07.270066",
+    "success": true,
+    "error": null,
+    "execution_time": 1.7231202125549316,
+    "lookback": 10000,
+    "price": 3284.0,
+    "detected_cycles": [
+        55,
+        34,
+        21
+    ],
+    "cycle_powers": {
+        "55": 0.1,
+        "34": 0.1,
+        "21": 0.1
+    },
+    "cycle_states": [
+        {
+            "cycle_length": 55,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:TCS",
+                3179.9,
+                3214.3,
+                3179.25,
+                3208.05,
+                127433.0,
+                3196.78,
+                3200.53,
+                3195.38,
+                3202.41,
+                3208.05,
+                3207.646865795409,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 0,
+            "fld_value": 3222.771527381582,
+            "price_value": 3284.0,
+            "price_to_fld_ratio": 1.0189987009932922
+        },
+        {
+            "cycle_length": 34,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:TCS",
+                3179.9,
+                3214.3,
+                3179.25,
+                3208.05,
+                127433.0,
+                3196.78,
+                3200.53,
+                3195.38,
+                3202.41,
+                3208.05,
+                3207.646865795409,
+                3185.0808831033482,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 0,
+            "fld_value": 3217.844896429254,
+            "price_value": 3284.0,
+            "price_to_fld_ratio": 1.0205588229700433
+        },
+        {
+            "cycle_length": 21,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:TCS",
+                3168.75,
+                3175.15,
+                3167.4,
+                3171.85,
+                136163.0,
+                3171.28,
+                3171.47,
+                3170.79,
+                3171.56,
+                3171.85,
+                3210.8260276185724,
+                3184.5638712813447,
+                3170.840283581144,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 0,
+            "fld_value": 3228.343791851164,
+            "price_value": 3284.0,
+            "price_to_fld_ratio": 1.0172398640718876
+        }
+    ],
+    "harmonic_relationships": {
+        "55:34": {
+            "ratio": 0.6181818181818182,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "55:21": {
+            "ratio": 0.38181818181818183,
+            "harmonic": "None",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "34:21": {
+            "ratio": 0.6176470588235294,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.76470588235294,
+            "power": 0.6176470588235294
+        }
+    },
+    "signal": {
+        "signal": "strong_buy",
+        "strength": 1.0,
+        "alignment": 1.0,
+        "confidence": "high",
+        "direction": "long"
+    },
+    "position_guidance": {
+        "entry_price": 3284.0,
+        "stop_loss": 3245.6593769156193,
+        "target_price": 3360.6812461687614,
+        "position_size": 1.0,
+        "risk": 38.340623084380695,
+        "reward": 76.68124616876139,
+        "risk_reward_ratio": 2.0,
+        "risk_percentage": 1.1674976578678653,
+        "target_percentage": 2.3349953157357306,
+        "direction": "long"
+    },
+    "has_data": true,
+    "has_chart": false
+}

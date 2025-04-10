@@ -1,0 +1,89 @@
+graph TD
+      %% Main Components
+      User([User]) --> Dashboard[Main Dashboard]
+      Dashboard --> TabNav[Tab Navigation System]
+      
+      %% State Management - NEW
+      GlobalStateStore[(Global State Store)] <--> TabNav
+      GlobalStateStore <--> BatchResults
+      GlobalStateStore <--> BatchAdvancedSignals
+      
+      %% Core Analysis Components
+      Scanner[Core Scanner System] --> CycleDetection[Cycle Detection]
+      Scanner --> FLDSignal[FLD Signal Generator]
+      Scanner --> MarketRegime[Market Regime Detector]
+      
+      %% Data Management - MODIFIED
+      DataManager[Data Management] --> DataFetcher[Data Fetcher]
+      DataManager -.-> DataRefresher[Data Refresher]
+      DataCache[(Data Cache)] <--> DataFetcher
+      DataFetcher --> ExternalData[External Data Sources]
+      
+      %% Results Storage
+      ResultsRepo[(Results Repository)] <--> Scanner
+      ResultsRepo <--> GlobalStateStore
+      
+      %% Snapshot System - NEW
+      SnapshotManager[Snapshot Manager] <--> ResultsRepo
+      SnapshotManager <--> GlobalStateStore
+      
+      %% Dashboard Tabs & Components
+      TabNav --> AnalysisTab[Analysis Results Tab]
+      TabNav --> CycleTab[Cycle Visualization Tab]
+      TabNav --> FLDTab[FLD Analysis Tab]
+      TabNav --> ScannerTab[Scanner Dashboard Tab]
+      TabNav --> BatchTab[Batch Results Tab]
+      TabNav --> AdvancedTab[Advanced Strategies Tab]
+      TabNav --> BatchAdvancedTab[Batch Advanced Signals Tab]
+      
+      %% Key UI Components
+      ScannerTab --> ScannerDashboard[Scanner Dashboard Component]
+      ScannerDashboard --> ScanResults[Scan Results]
+      BatchTab --> BatchResults[Batch Results Component]
+      BatchResults --> BatchScanResults[Batch Scan Results]
+      AdvancedTab --> AdvancedStrategies[Advanced Strategies Component]
+      AdvancedStrategies --> StrategySignals[Strategy Signals]
+      BatchAdvancedTab --> BatchAdvancedSignals[Batch Advanced Signals Component]
+      BatchAdvancedSignals --> BatchStrategySignals[Batch Strategy Signals]
+      
+      %% Data Flow - CORRECTED
+      User -- 1. Initiates Batch Scan --> BatchScan[Batch Scan Process]
+      BatchScan -- 2. Fetch Data --> DataManager
+      BatchScan -- 3. Analyze Data --> Scanner
+      Scanner -- 4. Store Results --> ResultsRepo
+      Scanner -- 5. Create Snapshot --> SnapshotManager
+      ResultsRepo -- 6. Provide Results via State --> GlobalStateStore
+      GlobalStateStore -- 7. Access Results --> BatchResults
+      GlobalStateStore -- 8. Access Same Results --> BatchAdvancedSignals
+      
+      %% Cross-Tab Communication - NEW
+      TabNav -- "Preserves state via" --> GlobalStateStore
+      TabNav -- "Tab switch with ID" --> TabStateManager[Tab State Manager]
+      TabStateManager -- "Manages tab specific state" --> GlobalStateStore
+      
+      %% Data Consistency Mechanism - NEW
+      subgraph "Data Consistency Controls"
+          SnapshotManager -- "Creates timestamped data snapshots" --> DataSnapshot[(Data Snapshots)]
+          DataSnapshot -- "Used by" --> BatchResults
+          DataSnapshot -- "Same snapshot used by" --> BatchAdvancedSignals
+          BatchResults -- "References snapshot ID" --> BatchAdvancedSignals
+      end
+      
+      %% Data Refresher Control - MODIFIED
+      DataRefresherControl[Data Refresher Control] -- "Disabled during cross-tab analysis" --> DataRefresher
+      BatchScan -- "Triggers" --> DataRefresherControl
+      
+      %% Legend
+      subgraph "Legend"
+          NewComponent[New Component]:::new
+          ModifiedComponent[Modified Component]:::modified
+          RemovedConnection[Removed Connection]:::removed
+      end
+      
+      classDef new fill:#90EE90,stroke:#006400
+      classDef modified fill:#FFD700,stroke:#B8860B
+      classDef removed fill:#FFCCCB,stroke:#8B0000
+      
+      class GlobalStateStore,SnapshotManager,TabStateManager,DataSnapshot,DataRefresherControl new
+      class DataRefresher,BatchAdvancedSignals modified
+      class DataRefresher removed

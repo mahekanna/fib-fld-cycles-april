@@ -1,0 +1,160 @@
+{
+    "symbol": "NIFTY",
+    "exchange": "NSE",
+    "interval": "15m",
+    "timestamp": "2025-04-08T17:24:08.371547",
+    "success": true,
+    "error": null,
+    "execution_time": 0.6366486549377441,
+    "lookback": 1000,
+    "price": 22547.2,
+    "detected_cycles": [
+        55,
+        34,
+        21
+    ],
+    "cycle_powers": {
+        "55": 0.1,
+        "34": 0.1,
+        "21": 0.1
+    },
+    "cycle_states": [
+        {
+            "cycle_length": 55,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:NIFTY",
+                22046.2,
+                22210.85,
+                22040.9,
+                22184.65,
+                40020475.0,
+                22125.88,
+                22145.47,
+                22120.65,
+                22155.26,
+                22184.65,
+                22161.82093421641,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 1,
+            "fld_value": 22477.12633451188,
+            "price_value": 22547.2,
+            "price_to_fld_ratio": 1.003117554461601
+        },
+        {
+            "cycle_length": 34,
+            "is_bullish": true,
+            "recent_crossover": [
+                "NSE:NIFTY",
+                22001.25,
+                22070.95,
+                22001.25,
+                22046.5,
+                19985729.0,
+                22036.1,
+                22039.57,
+                22029.99,
+                22041.3,
+                22046.5,
+                22164.483225639844,
+                22045.47618690756,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                "bullish"
+            ],
+            "days_since_crossover": 1,
+            "fld_value": 22522.29185791921,
+            "price_value": 22547.2,
+            "price_to_fld_ratio": 1.0011059328348075
+        },
+        {
+            "cycle_length": 21,
+            "is_bullish": false,
+            "recent_crossover": [
+                "NSE:NIFTY",
+                22577.9,
+                22578.55,
+                22517.15,
+                22528.4,
+                34670644.0,
+                22547.85,
+                22541.37,
+                22550.5,
+                22538.12,
+                22528.4,
+                22472.702359290535,
+                22520.579135321466,
+                22562.885016602257,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                "bearish"
+            ],
+            "days_since_crossover": 0,
+            "fld_value": 22558.54584716855,
+            "price_value": 22547.2,
+            "price_to_fld_ratio": 0.99949704882374
+        }
+    ],
+    "harmonic_relationships": {
+        "55:34": {
+            "ratio": 0.6181818181818182,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "55:21": {
+            "ratio": 0.38181818181818183,
+            "harmonic": "None",
+            "precision": 61.81818181818181,
+            "power": 0.6181818181818182
+        },
+        "34:21": {
+            "ratio": 0.6176470588235294,
+            "harmonic": "Golden Ratio (0.618)",
+            "precision": 61.76470588235294,
+            "power": 0.6176470588235294
+        }
+    },
+    "signal": {
+        "signal": "strong_buy",
+        "strength": 1.0,
+        "alignment": 0.6666666666666666,
+        "confidence": "medium",
+        "direction": "long"
+    },
+    "position_guidance": {
+        "entry_price": 22547.2,
+        "stop_loss": 22360.335949493587,
+        "target_price": 22920.92810101283,
+        "position_size": 0.75,
+        "risk": 186.86405050641406,
+        "reward": 373.7281010128281,
+        "risk_reward_ratio": 2.0,
+        "risk_percentage": 0.8287683193763041,
+        "target_percentage": 1.6575366387526083,
+        "direction": "long"
+    },
+    "has_data": true,
+    "has_chart": true
+}

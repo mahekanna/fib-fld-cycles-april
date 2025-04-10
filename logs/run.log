@@ -1,0 +1,532 @@
+2025-04-07 03:05:48,153 - [INFO] - run - Using centralized logging system
+2025-04-07 03:05:48,156 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 03:05:48,156 - [INFO] - run - Checking for existing processes...
+2025-04-07 03:05:48,166 - [INFO] - run - Found 1 processes matching 'python run.py'
+2025-04-07 03:05:48,177 - [INFO] - run - No conflicting processes found
+2025-04-07 03:05:48,177 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 03:05:48,177 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 03:05:48,177 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 03:05:48,177 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 03:05:48,177 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 03:05:48,178 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 03:05:48,178 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 03:05:48,555 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 03:05:48,555 - [INFO] - run - Starting dashboard mode...
+2025-04-07 03:05:49,568 - [INFO] - run - Using centralized logging system
+2025-04-07 03:05:49,572 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 03:05:49,572 - [INFO] - run - Checking for existing processes...
+2025-04-07 03:05:49,581 - [INFO] - run - Found 1 processes matching 'python run.py'
+2025-04-07 03:05:49,581 - [INFO] - run - Terminated process 143583 (python run.py)
+2025-04-07 03:10:26,298 - [INFO] - run - Using centralized logging system
+2025-04-07 03:10:26,302 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 03:10:26,302 - [INFO] - run - Checking for existing processes...
+2025-04-07 03:10:26,317 - [INFO] - run - No conflicting processes found
+2025-04-07 03:10:26,317 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 03:10:26,317 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 03:10:26,317 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 03:10:26,317 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 03:10:26,317 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 03:10:26,317 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 03:10:26,317 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 03:10:26,650 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 03:10:26,650 - [INFO] - run - Starting dashboard mode...
+2025-04-07 03:10:27,655 - [INFO] - run - Using centralized logging system
+2025-04-07 03:10:27,658 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 03:10:27,659 - [INFO] - run - Checking for existing processes...
+2025-04-07 03:10:27,666 - [INFO] - run - Found 1 processes matching 'python run.py'
+2025-04-07 03:10:27,666 - [INFO] - run - Terminated process 143644 (python run.py)
+2025-04-07 13:00:30,928 - [INFO] - run - Using centralized logging system
+2025-04-07 13:00:30,945 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 13:00:30,945 - [INFO] - run - Checking for existing processes...
+2025-04-07 13:00:31,040 - [INFO] - run - No conflicting processes found
+2025-04-07 13:00:31,040 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 13:00:31,040 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 13:00:31,041 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 13:00:31,041 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 13:00:31,041 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 13:00:31,041 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 13:00:31,041 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 13:00:32,031 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 13:00:32,031 - [INFO] - run - Starting dashboard mode...
+2025-04-07 13:00:34,398 - [INFO] - run - Using centralized logging system
+2025-04-07 13:00:34,402 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 13:00:34,403 - [INFO] - run - Checking for existing processes...
+2025-04-07 13:00:34,412 - [INFO] - run - Found 1 processes matching 'python run.py'
+2025-04-07 13:03:21,317 - [INFO] - run - Using centralized logging system
+2025-04-07 13:03:21,329 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 13:03:21,329 - [INFO] - run - Checking for existing processes...
+2025-04-07 13:03:21,350 - [INFO] - run - No conflicting processes found
+2025-04-07 13:03:21,350 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 13:03:21,350 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 13:03:21,350 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 13:03:21,350 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 13:03:21,350 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 13:03:21,351 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 13:03:21,351 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 13:03:22,230 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 13:03:22,231 - [INFO] - run - Starting dashboard mode...
+2025-04-07 13:03:23,827 - [INFO] - run - Using centralized logging system
+2025-04-07 13:03:23,831 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 13:03:23,831 - [INFO] - run - Checking for existing processes...
+2025-04-07 13:03:23,840 - [INFO] - run - Found 1 processes matching 'python run.py'
+2025-04-07 13:07:43,132 - [INFO] - run - Using centralized logging system
+2025-04-07 13:07:43,145 - [INFO] - run - Logging system initialized with level INFO
+2025-04-07 13:07:43,145 - [INFO] - run - Checking for existing processes...
+2025-04-07 13:07:43,155 - [INFO] - run - No conflicting processes found
+2025-04-07 13:07:43,155 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 13:07:43,155 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 13:07:43,155 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 13:07:43,155 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 13:07:43,155 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 13:07:43,155 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 13:07:43,155 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 13:07:43,866 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 13:07:43,867 - [INFO] - run - Starting dashboard mode...
+2025-04-07 13:58:22,616 - [INFO] - run - Using centralized logging system
+2025-04-07 13:58:22,628 - [INFO] - run - Logging system initialized with level INFO
+2025-04-07 13:58:22,629 - [INFO] - run - Checking for existing processes...
+2025-04-07 13:58:22,659 - [INFO] - run - No conflicting processes found
+2025-04-07 13:58:22,659 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 13:58:22,659 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 13:58:22,659 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 13:58:22,659 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 13:58:22,659 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 13:58:22,659 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 13:58:22,659 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 13:58:23,442 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 13:58:23,442 - [INFO] - run - Starting dashboard mode...
+2025-04-07 14:12:53,823 - [INFO] - run - Using centralized logging system
+2025-04-07 14:12:53,827 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 14:12:53,828 - [INFO] - run - Checking for existing processes...
+2025-04-07 14:12:53,840 - [INFO] - run - No conflicting processes found
+2025-04-07 14:12:53,840 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 14:12:53,840 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 14:12:53,840 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 14:12:53,840 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 14:12:53,841 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 14:12:53,841 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 14:12:53,841 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 14:12:54,167 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 14:12:54,167 - [INFO] - run - Starting dashboard mode...
+2025-04-07 14:12:54,786 - [ERROR] - run - Error starting dashboard: name '_advanced_callbacks_registered' is used prior to global declaration (scanner_dashboard.py, line 377)
+2025-04-07 14:45:19,601 - [INFO] - run - Using centralized logging system
+2025-04-07 14:45:19,605 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 14:45:19,605 - [INFO] - run - Checking for existing processes...
+2025-04-07 14:45:19,609 - [INFO] - run - Found 2 processes matching 'main_dashboard.py'
+2025-04-07 14:45:19,610 - [INFO] - run - Terminated process 146606 (python3 main_dashboard.py)
+2025-04-07 14:45:19,610 - [WARNING] - run - Failed to terminate process 146619: PID still exists but it's a zombie (pid=146619, name='python3')
+2025-04-07 14:45:19,613 - [INFO] - run - Found 1 processes matching 'dash'
+2025-04-07 14:45:19,614 - [INFO] - run - Terminated process 146606 (python3 main_dashboard.py)
+2025-04-07 14:45:21,624 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 14:45:21,624 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 14:45:21,624 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 14:45:21,624 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 14:45:21,624 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 14:45:21,624 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 14:45:21,624 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 14:45:21,982 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 14:45:21,982 - [INFO] - run - Starting dashboard mode...
+2025-04-07 14:45:23,073 - [INFO] - run - Using centralized logging system
+2025-04-07 14:45:23,077 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 14:45:23,077 - [INFO] - run - Checking for existing processes...
+2025-04-07 14:45:23,089 - [INFO] - run - No conflicting processes found
+2025-04-07 14:45:23,089 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 14:45:23,089 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 14:45:23,089 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 14:45:23,089 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 14:45:23,089 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 14:45:23,090 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 14:45:23,090 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 14:45:23,423 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 14:45:23,423 - [INFO] - run - Starting dashboard mode...
+2025-04-07 14:49:59,972 - [INFO] - run - Using centralized logging system
+2025-04-07 14:49:59,976 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 14:49:59,976 - [INFO] - run - Checking for existing processes...
+2025-04-07 14:49:59,987 - [INFO] - run - No conflicting processes found
+2025-04-07 14:49:59,988 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 14:49:59,988 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 14:49:59,988 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 14:49:59,988 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 14:49:59,988 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 14:49:59,988 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 14:49:59,988 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 14:50:00,322 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 14:50:00,322 - [INFO] - run - Starting dashboard mode...
+2025-04-07 14:50:33,077 - [INFO] - run - Using centralized logging system
+2025-04-07 14:50:33,080 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 14:50:33,080 - [INFO] - run - Checking for existing processes...
+2025-04-07 14:50:33,091 - [INFO] - run - No conflicting processes found
+2025-04-07 14:50:33,091 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 14:50:33,091 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 14:50:33,091 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 14:50:33,091 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 14:50:33,091 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 14:50:33,091 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 14:50:33,091 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 14:50:33,405 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 14:50:33,405 - [INFO] - run - Starting dashboard mode...
+2025-04-07 14:53:47,467 - [INFO] - run - Using centralized logging system
+2025-04-07 14:53:47,471 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 14:53:47,471 - [INFO] - run - Checking for existing processes...
+2025-04-07 14:53:47,486 - [INFO] - run - No conflicting processes found
+2025-04-07 14:53:47,486 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 14:53:47,486 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 14:53:47,486 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 14:53:47,486 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 14:53:47,486 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 14:53:47,486 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 14:53:47,486 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 14:53:47,842 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 14:53:47,843 - [INFO] - run - Starting dashboard mode...
+2025-04-07 14:58:52,828 - [INFO] - run - Using centralized logging system
+2025-04-07 14:58:52,832 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 14:58:52,832 - [INFO] - run - Checking for existing processes...
+2025-04-07 14:58:52,842 - [INFO] - run - No conflicting processes found
+2025-04-07 14:58:52,842 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 14:58:52,842 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 14:58:52,842 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 14:58:52,842 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 14:58:52,842 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 14:58:52,842 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 14:58:52,842 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 14:58:53,172 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 14:58:53,172 - [INFO] - run - Starting dashboard mode...
+2025-04-07 14:58:54,159 - [INFO] - run - Using centralized logging system
+2025-04-07 14:58:54,163 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 14:58:54,163 - [INFO] - run - Checking for existing processes...
+2025-04-07 14:58:54,173 - [INFO] - run - No conflicting processes found
+2025-04-07 14:58:54,173 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 14:58:54,173 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 14:58:54,173 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 14:58:54,173 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 14:58:54,173 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 14:58:54,173 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 14:58:54,173 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 14:58:54,506 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 14:58:54,507 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:00:49,791 - [INFO] - run - Using centralized logging system
+2025-04-07 15:00:49,794 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:00:49,794 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:00:49,804 - [INFO] - run - No conflicting processes found
+2025-04-07 15:00:49,804 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:00:49,804 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:00:49,804 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:00:49,804 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:00:49,805 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:00:49,805 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:00:49,805 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:00:50,150 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:00:50,151 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:01:00,590 - [INFO] - run - Using centralized logging system
+2025-04-07 15:01:00,593 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:01:00,593 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:01:00,603 - [INFO] - run - No conflicting processes found
+2025-04-07 15:01:00,604 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:01:00,604 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:01:00,604 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:01:00,604 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:01:00,604 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:01:00,604 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:01:00,604 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:01:00,945 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:01:00,945 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:01:25,964 - [INFO] - run - Using centralized logging system
+2025-04-07 15:01:25,967 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:01:25,968 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:01:25,977 - [INFO] - run - No conflicting processes found
+2025-04-07 15:01:25,978 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:01:25,978 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:01:25,978 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:01:25,978 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:01:25,978 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:01:25,978 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:01:25,978 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:01:26,296 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:01:26,296 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:01:27,281 - [INFO] - run - Using centralized logging system
+2025-04-07 15:01:27,284 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:01:27,284 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:01:27,294 - [INFO] - run - No conflicting processes found
+2025-04-07 15:01:27,294 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:01:27,294 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:01:27,294 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:01:27,295 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:01:27,295 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:01:27,295 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:01:27,295 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:01:27,646 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:01:27,646 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:02:40,873 - [INFO] - run - Using centralized logging system
+2025-04-07 15:02:40,877 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:02:40,877 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:02:40,889 - [INFO] - run - No conflicting processes found
+2025-04-07 15:02:40,889 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:02:40,889 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:02:40,889 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:02:40,889 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:02:40,889 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:02:40,889 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:02:40,889 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:02:41,228 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:02:41,228 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:02:52,709 - [INFO] - run - Using centralized logging system
+2025-04-07 15:02:52,712 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:02:52,712 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:02:52,721 - [INFO] - run - No conflicting processes found
+2025-04-07 15:02:52,721 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:02:52,721 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:02:52,721 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:02:52,721 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:02:52,721 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:02:52,721 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:02:52,721 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:02:53,031 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:02:53,032 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:03:01,410 - [INFO] - run - Using centralized logging system
+2025-04-07 15:03:01,413 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:03:01,414 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:03:01,426 - [INFO] - run - No conflicting processes found
+2025-04-07 15:03:01,426 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:03:01,426 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:03:01,426 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:03:01,426 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:03:01,427 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:03:01,427 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:03:01,427 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:03:01,745 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:03:01,745 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:03:24,442 - [INFO] - run - Using centralized logging system
+2025-04-07 15:03:24,445 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:03:24,445 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:03:24,455 - [INFO] - run - No conflicting processes found
+2025-04-07 15:03:24,455 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:03:24,455 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:03:24,455 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:03:24,456 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:03:24,456 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:03:24,456 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:03:24,456 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:03:24,781 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:03:24,781 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:03:25,778 - [INFO] - run - Using centralized logging system
+2025-04-07 15:03:25,781 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:03:25,781 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:03:25,794 - [INFO] - run - No conflicting processes found
+2025-04-07 15:03:25,794 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:03:25,794 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:03:25,794 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:03:25,794 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:03:25,794 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:03:25,794 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:03:25,794 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:03:26,101 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:03:26,102 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:05:04,068 - [INFO] - run - Using centralized logging system
+2025-04-07 15:05:04,072 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:05:04,073 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:05:04,085 - [INFO] - run - No conflicting processes found
+2025-04-07 15:05:04,085 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:05:04,085 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:05:04,085 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:05:04,085 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:05:04,086 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:05:04,086 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:05:04,086 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:05:04,441 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:05:04,441 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:05:05,472 - [INFO] - run - Using centralized logging system
+2025-04-07 15:05:05,475 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:05:05,475 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:05:05,488 - [INFO] - run - No conflicting processes found
+2025-04-07 15:05:05,489 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:05:05,489 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:05:05,489 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:05:05,489 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:05:05,489 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:05:05,489 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:05:05,489 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:05:05,811 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:05:05,811 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:11:24,541 - [INFO] - run - Using centralized logging system
+2025-04-07 15:11:24,545 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:11:24,545 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:11:24,554 - [INFO] - run - No conflicting processes found
+2025-04-07 15:11:24,555 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:11:24,555 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:11:24,555 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:11:24,555 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:11:24,555 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:11:24,555 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:11:24,555 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:11:24,880 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:11:24,881 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:11:31,624 - [INFO] - run - Using centralized logging system
+2025-04-07 15:11:31,627 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:11:31,627 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:11:31,638 - [INFO] - run - No conflicting processes found
+2025-04-07 15:11:31,638 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:11:31,638 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:11:31,638 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:11:31,638 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:11:31,638 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:11:31,639 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:11:31,639 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:11:31,953 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:11:31,953 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:12:21,020 - [INFO] - run - Using centralized logging system
+2025-04-07 15:12:21,025 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:12:21,025 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:12:21,038 - [INFO] - run - No conflicting processes found
+2025-04-07 15:12:21,038 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:12:21,038 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:12:21,038 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:12:21,038 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:12:21,038 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:12:21,038 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:12:21,038 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:12:21,408 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:12:21,409 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:13:13,139 - [INFO] - run - Using centralized logging system
+2025-04-07 15:13:13,144 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:13:13,144 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:13:13,154 - [INFO] - run - No conflicting processes found
+2025-04-07 15:13:13,154 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:13:13,154 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:13:13,154 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:13:13,154 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:13:13,154 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:13:13,154 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:13:13,154 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:13:13,514 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:13:13,514 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:13:14,484 - [INFO] - run - Using centralized logging system
+2025-04-07 15:13:14,487 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:13:14,487 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:13:14,497 - [INFO] - run - No conflicting processes found
+2025-04-07 15:13:14,497 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:13:14,497 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:13:14,497 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:13:14,497 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:13:14,497 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:13:14,497 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:13:14,498 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:13:14,818 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:13:14,818 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:30:07,078 - [INFO] - run - Using centralized logging system
+2025-04-07 15:30:07,083 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:30:07,083 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:30:07,101 - [INFO] - run - No conflicting processes found
+2025-04-07 15:30:07,101 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:30:07,101 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:30:07,101 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:30:07,101 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:30:07,101 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:30:07,101 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:30:07,101 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:30:07,465 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:30:07,466 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:31:20,798 - [INFO] - run - Using centralized logging system
+2025-04-07 15:31:20,802 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:31:20,802 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:31:20,815 - [INFO] - run - No conflicting processes found
+2025-04-07 15:31:20,815 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:31:20,815 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:31:20,815 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:31:20,815 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:31:20,815 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:31:20,815 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:31:20,815 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:31:21,190 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:31:21,190 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:35:54,777 - [INFO] - run - Using centralized logging system
+2025-04-07 15:35:54,781 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:35:54,781 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:35:54,792 - [INFO] - run - No conflicting processes found
+2025-04-07 15:35:54,792 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:35:54,792 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:35:54,792 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:35:54,792 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:35:54,792 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:35:54,792 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:35:54,792 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:35:55,121 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:35:55,121 - [INFO] - run - Starting dashboard mode...
+2025-04-07 15:35:56,147 - [INFO] - run - Using centralized logging system
+2025-04-07 15:35:56,150 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 15:35:56,151 - [INFO] - run - Checking for existing processes...
+2025-04-07 15:35:56,162 - [INFO] - run - No conflicting processes found
+2025-04-07 15:35:56,162 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 15:35:56,162 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 15:35:56,163 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 15:35:56,163 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 15:35:56,163 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 15:35:56,163 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 15:35:56,163 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 15:35:56,499 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 15:35:56,499 - [INFO] - run - Starting dashboard mode...
+2025-04-07 16:10:29,093 - [INFO] - run - Using centralized logging system
+2025-04-07 16:10:29,105 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 16:10:29,105 - [INFO] - run - Checking for existing processes...
+2025-04-07 16:10:29,140 - [INFO] - run - No conflicting processes found
+2025-04-07 16:10:29,140 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 16:10:29,141 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 16:10:29,141 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 16:10:29,141 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 16:10:29,141 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 16:10:29,141 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 16:10:29,141 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 16:10:29,826 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 16:10:29,826 - [INFO] - run - Starting dashboard mode...
+2025-04-07 16:10:31,042 - [ERROR] - run - Error starting dashboard: unexpected indent (trading_strategies_ui.py, line 1563)
+2025-04-07 16:22:15,035 - [INFO] - run - Using centralized logging system
+2025-04-07 16:22:15,045 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 16:22:15,046 - [INFO] - run - Checking for existing processes...
+2025-04-07 16:22:15,054 - [INFO] - run - No conflicting processes found
+2025-04-07 16:22:15,054 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 16:22:15,054 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 16:22:15,054 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 16:22:15,054 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 16:22:15,054 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 16:22:15,054 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 16:22:15,054 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 16:22:15,865 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 16:22:15,865 - [INFO] - run - Starting dashboard mode...
+2025-04-07 16:22:17,509 - [INFO] - run - Using centralized logging system
+2025-04-07 16:22:17,513 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 16:22:17,513 - [INFO] - run - Checking for existing processes...
+2025-04-07 16:22:17,524 - [INFO] - run - No conflicting processes found
+2025-04-07 16:22:17,524 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 16:22:17,524 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 16:22:17,524 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 16:22:17,524 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 16:22:17,524 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 16:22:17,524 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 16:22:17,524 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 16:22:17,862 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 16:22:17,862 - [INFO] - run - Starting dashboard mode...
+2025-04-07 16:54:15,994 - [INFO] - run - Using centralized logging system
+2025-04-07 16:54:16,005 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 16:54:16,005 - [INFO] - run - Checking for existing processes...
+2025-04-07 16:54:16,037 - [INFO] - run - No conflicting processes found
+2025-04-07 16:54:16,037 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 16:54:16,037 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 16:54:16,037 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 16:54:16,037 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 16:54:16,037 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 16:54:16,038 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 16:54:16,038 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 16:54:16,683 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 16:54:16,683 - [INFO] - run - Starting dashboard mode...
+2025-04-07 16:54:24,620 - [INFO] - run - Using centralized logging system
+2025-04-07 16:54:24,624 - [INFO] - run - Logging system initialized with level DEBUG
+2025-04-07 16:54:24,624 - [INFO] - run - Checking for existing processes...
+2025-04-07 16:54:24,637 - [INFO] - run - No conflicting processes found
+2025-04-07 16:54:24,637 - [INFO] - run - Ensuring cache directories exist...
+2025-04-07 16:54:24,637 - [INFO] - run - Ensured directory exists: data/cache
+2025-04-07 16:54:24,637 - [INFO] - run - Ensured directory exists: logs
+2025-04-07 16:54:24,637 - [INFO] - run - Ensured directory exists: storage
+2025-04-07 16:54:24,637 - [INFO] - run - Ensured directory exists: storage/results
+2025-04-07 16:54:24,638 - [INFO] - run - Ensured directory exists: storage/results/json
+2025-04-07 16:54:24,638 - [INFO] - run - Ensured directory exists: storage/results/pickle
+2025-04-07 16:54:25,004 - [WARNING] - run - Using Yahoo Finance as fallback - limited NSE data. Consider installing tvDatafeed.
+2025-04-07 16:54:25,004 - [INFO] - run - Starting dashboard mode...
